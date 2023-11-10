@@ -5,3 +5,4 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Victor+Alexandre;Data+Science+Student; "Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
