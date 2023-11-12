@@ -15,6 +15,8 @@ Languages
 <img title="java-original" alt="java-original" width="35px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" /></code>
 <img title="googlecloud-original" alt="googlecloud-original" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /></code>
 <img title="r-original" alt="r-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></code>                    <img title="jupyter-original" alt="jupyter-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
+<img title="kaggle" alt="kaggle" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />  <img title="anaconda" alt="anaconda" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />                     
+
           
 
           
