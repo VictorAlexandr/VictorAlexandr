@@ -23,7 +23,7 @@
 
 
 <div>
-  <a href = "victoraledatascience@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "victorale94310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/robert-sampaio/robert-sampaio/blob/output/github-contribution-grid-snake.svg)      
 
