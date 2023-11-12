@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/robert-sampaio">
+  <a href="https://github.com/VictorAlexandr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorAlexandr&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlexandr&layout=compact&langs_count=7&theme=blue_navy"/>
 
 <img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
