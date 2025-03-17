@@ -1,31 +1,27 @@
-<div id="top"></div> 
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Victor+Alexandre;Founder+GlobalFlex+Cloud;Data+Science+Consultant;Product+Owner;IA+Specialist "Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
-</div> 
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
 <div align="center">
   <a href="https://github.com/VictorAlexandr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorAlexandr&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlexandr&layout=compact&langs_count=7&theme=blue_navy"/>
-
-<img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<img title="mysql-original" alt="mysql-original" width="35px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" /></code>
-<img title="amazonwebservices-original" alt="amazonwebservices-original" width="35px" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" /></code>
-<img title="visualstudio-plain" alt="visualstudio-plain" width="35px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" /></code>
-<img title="oracle-original" alt="oracle-original" width="35px" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColorg" /></code>
-<img title="java-original" alt="java-original" width="35px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" /></code>
-<img title="googlecloud-original" alt="googlecloud-original" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /></code>
-<img title="r-original" alt="r-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></code>                    <img title="jupyter-original" alt="jupyter-original" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
-<img title="kaggle" alt="kaggle" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />  <img title="anaconda" alt="anaconda" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> 
-
+      
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=solidity,vercel,tensorflow,mongodb,linux,r,python,kubernetes,ai,gitlab,gcp,azure,aws" />
+</p>
 
 <div>
   <a href = "victorale94310@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![Snake animation](https://github.com/robert-sampaio/robert-sampaio/blob/output/github-contribution-grid-snake.svg)      
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=VictorAlexandr&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+![VictorAlexandr GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAlexandr\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlexandr&layout=compact)
+
+
+
+
+
 
 
 
