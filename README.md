@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Victor+Alexandre;Data+Scientist;Data+Analytics;Data+Driven; "Data-Driven, Brazilian front-end developer, Power Metal lover"></a>
-</div>
+</div> 
 
 
 
