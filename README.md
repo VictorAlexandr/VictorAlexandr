@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <!-- Substitua pelo caminho da imagem que você subiu -->
-  <img src="https://github.com/user-attachments/assets/b9851ad3-380a-4838-8c8b-92ca5bb11e96" alt="Banner do Perfil de Victor Alexandre">
+  <img src="https://github.com/user-attachments/assets/6982c612-f7c3-4ca5-88f9-df30eadb30a0" alt="Banner do Perfil de Victor Alexandre">
 </p>
 
 <h1 align="center">Olá, eu sou o Victor Alexandre 👋</h1>
@@ -108,6 +108,7 @@ Essa combinação me permite não apenas projetar sofisticados modelos de IA, ma
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-![WhatsApp Image 2025-09-27 at 15 56 32](https://github.com/user-attachments/assets/b9851ad3-380a-4838-8c8b-92ca5bb11e96)
+
+
 
 
