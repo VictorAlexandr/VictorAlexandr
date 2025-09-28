@@ -27,7 +27,7 @@ Essa combinação me permite não apenas projetar sofisticados modelos de IA, ma
 
 - 🌱 Minha meta atual é obter as certificações **AWS Machine Learning Specialty** e **Engineer**.
 - 🚀 Busco ativamente por desafios que me permitam construir sistemas de IA de ponta a ponta.
-- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL-AQUI/) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
+- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
 
 ---
 
@@ -101,7 +101,7 @@ Essa combinação me permite não apenas projetar sofisticados modelos de IA, ma
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI/">
+  <a href="(https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:victorale94310@gmail.com">
