@@ -92,11 +92,11 @@ Essa combinação me permite não apenas projetar sofisticados modelos de IA, ma
 
 | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :--- |
-| **1. Pipeline de MLOps para Previsão de Churn** | Pipeline de ponta a ponta que automatiza o treinamento, versionamento e deploy de um modelo de classificação usando Databricks e MLflow. | `Databricks`, `MLflow`, `Scikit-learn`, `MLOps` | [🔗 Link](LINK-PARA-O-REPO-AQUI) |
-| **2. API de Análise de Sentimentos em Tempo Real** | Deploy de um modelo de NLP como um endpoint escalável na AWS, capaz de classificar o sentimento de textos em tempo real. | `AWS SageMaker`, `Python`, `NLP`, `API REST` | [🔗 Link](LINK-PARA-O-REPO-AQUI) |
-| **3. Assistente de IA para Consultar Documentos (RAG)**| Chatbot que utiliza a arquitetura RAG e LLMs para responder perguntas com base em uma base de conhecimento de documentos privados. | `LangChain`, `LLMs`, `Vector DBs`, `Python` | [🔗 Link](LINK-PARA-O-REPO-AQUI) |
-| **4. Data Lakehouse para Análise de Vendas** | Construção de um pipeline de dados robusto (Bronze, Silver, Gold) na Databricks para processar e estruturar dados para análises de BI. | `Databricks`, `Delta Lake`, `Spark SQL`, `Eng. de Dados` | [🔗 Link](LINK-PARA-O-REPO-AQUI) |
-| **5. Automação de Coleta e Qualificação de Dados** | Workflow no n8n que extrai dados de múltiplas fontes, os enriquece usando uma API de IA e os carrega em um banco de dados estruturado. | `n8n`, `APIs`, `Webhooks`, `Supabase` | [🔗 Link](LINK-PARA-O-REPO-AQUI) |
+| **1. Pipeline de MLOps para Previsão de Churn** | Pipeline de ponta a ponta que automatiza o treinamento, versionamento e deploy de um modelo de classificação usando Databricks e MLflow. | `Databricks`, `MLflow`, `Scikit-learn`, `MLOps` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/01-mlops-pipeline-churn-prediction) |
+| **2. API de Análise de Sentimentos em Tempo Real** | Deploy de um modelo de NLP como um endpoint escalável na AWS, capaz de classificar o sentimento de textos em tempo real. | `AWS SageMaker`, `Python`, `NLP`, `API REST` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/02-api-sentiment-analysis-sagemaker) |
+| **3. Assistente de IA para Consultar Documentos (RAG)**| Chatbot que utiliza a arquitetura RAG e LLMs para responder perguntas com base em uma base de conhecimento de documentos privados. | `LangChain`, `LLMs`, `Vector DBs`, `Python` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/05-rag-document-assistant-langchain) |
+| **4. Data Lakehouse para Análise de Vendas** | Construção de um pipeline de dados robusto (Bronze, Silver, Gold) na Databricks para processar e estruturar dados para análises de BI. | `Databricks`, `Delta Lake`, `Spark SQL`, `Eng. de Dados` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/04-data-lakehouse-sales-analytics) |
+| **5. Automação de Coleta e Qualificação de Dados** | Workflow no n8n que extrai dados de múltiplas fontes, os enriquece usando uma API de IA e os carrega em um banco de dados estruturado. | `n8n`, `APIs`, `Webhooks`, `Supabase` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/03-automation-data-enrichment-n8n) |
 
 ---
 
