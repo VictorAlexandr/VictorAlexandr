@@ -13,17 +13,20 @@
 
 ---
 
- ### 💡 Minha Filosofia Profissional (O Perfil T-Shaped)
+### 💡 Minha Filosofia Profissional (O Perfil T-Shaped)
 
 Acredito que a maestria em tecnologia é forjada na prática deliberada. Enquanto cursos teóricos constroem o mapa, são os projetos práticos que nos ensinam a navegar no terreno complexo do mundo real. Minha jornada, desde a fundação da **GlobalFlex Cloud** até a rápida imersão na **GLA**, foi guiada por um princípio: **aprender construindo**.
 
-Esta filosofia moldou meu perfil profissional em um formato **T-Shaped**:
+Esta filosofia moldou meu perfil profissional em um formato **T-Shaped**, com uma profundidade clara e uma amplitude multidisciplinar:
 
-- **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA e MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, desde a concepção até a produção escalável.
+- **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA e MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, desde a concepção até a produção escalável, garantindo que a inteligência gerada chegue ao usuário final de forma confiável.
 
-- **A Amplitude (a barra horizontal do T):** Minha expertise é sustentada por uma ampla competência em **Ciência de Dados** (a curiosidade para extrair insights), **Engenharia de Dados** (a disciplina para construir fundações de dados robustas) e **Engenharia de Automação** (o pragmatismo para entregar valor de forma rápida e eficiente).
+- **A Amplitude (a barra horizontal do T):** Minha expertise é sustentada por três pilares complementares:
+    1.  **Ciência & Engenharia de Dados:** A disciplina para extrair insights e construir fundações de dados robustas que alimentam os sistemas de IA.
+    2.  **Engenharia de Automação:** O pragmatismo para conectar sistemas e entregar valor de forma rápida e eficiente, eliminando a fricção nos processos de negócio.
+    3.  **Desenvolvimento Blockchain & Web3:** A visão de vanguarda para construir a próxima geração de aplicações descentralizadas. Atualmente, estou aplicando este conhecimento no desenvolvimento de uma nova criptomoeda, explorando os fundamentos de protocolos, criptografia e finanças descentralizadas (DeFi).
 
-Essa combinação me permite não apenas projetar sofisticados modelos de IA, mas também construir os workflows práticos e automatizados que entregam seu valor ao negócio de forma rápida e eficiente. Como fundador da **GlobalFlex Cloud**, desenvolvi uma forte visão de produto, sempre conectando a profundidade técnica com os objetivos estratégicos.
+Essa combinação me permite não apenas desenvolver soluções tecnicamente sofisticadas, mas também garantir que elas sejam práticas, seguras, alinhadas ao negócio e construídas para durar.
 
 - 🌱 Minha meta atual é obter as certificações **AWS Machine Learning Specialty** e **Engineer**.
 - 🚀 Busco ativamente por desafios que me permitam construir sistemas de IA de ponta a ponta.
@@ -72,6 +75,15 @@ Essa combinação me permite não apenas projetar sofisticados modelos de IA, ma
   <a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor"/></a>
+</p>
+
+<p align="left">
+  <strong>⛓️ Blockchain & Web3:</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/DeFi-6A1B9A?style=for-the-badge" alt="DeFi"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge" alt="Cryptography"/></a>
 </p>
 
 <p align="left">
