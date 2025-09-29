@@ -13,15 +13,15 @@
 
 ---
 
-### 💡 Sobre Mim
+ ### 💡 Minha Filosofia Profissional (O Perfil T-Shaped)
 
-Minha identidade profissional é uma trindade poderosa, focada em transformar dados em valor de ponta a ponta:
+Acredito que a maestria em tecnologia é forjada na prática deliberada. Enquanto cursos teóricos constroem o mapa, são os projetos práticos que nos ensinam a navegar no terreno complexo do mundo real. Minha jornada, desde a fundação da **GlobalFlex Cloud** até a rápida imersão na **GLA**, foi guiada por um princípio: **aprender construindo**.
 
-1.  Como **Cientista de Dados**, sou movido pela curiosidade de explorar datasets complexos, formular hipóteses e aplicar modelos de Machine Learning para extrair insights que direcionam a estratégia de negócio.
+Esta filosofia moldou meu perfil profissional em um formato **T-Shaped**:
 
-2.  Como **Engenheiro de IA**, pego esses insights e os transformo em produtos robustos, escaláveis e automatizados, arquitetando o ecossistema completo de **Engenharia de Dados** e **MLOps**.
+- **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA e MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, desde a concepção até a produção escalável.
 
-3.  Como **Especialista em Automação**, sou o pragmático que traduz estratégias em ação imediata. Tenho sólida experiência na construção de fluxos de trabalho inteligentes com **n8n e Merlin**, e na criação de soluções de negócio ágeis como landing pages e sistemas com **Lovable**.
+- **A Amplitude (a barra horizontal do T):** Minha expertise é sustentada por uma ampla competência em **Ciência de Dados** (a curiosidade para extrair insights), **Engenharia de Dados** (a disciplina para construir fundações de dados robustas) e **Engenharia de Automação** (o pragmatismo para entregar valor de forma rápida e eficiente).
 
 Essa combinação me permite não apenas projetar sofisticados modelos de IA, mas também construir os workflows práticos e automatizados que entregam seu valor ao negócio de forma rápida e eficiente. Como fundador da **GlobalFlex Cloud**, desenvolvi uma forte visão de produto, sempre conectando a profundidade técnica com os objetivos estratégicos.
 
@@ -89,6 +89,8 @@ Essa combinação me permite não apenas projetar sofisticados modelos de IA, ma
 ---
 
 ### 🚀 Meus 5 Projetos em Destaque
+
+Selecionei 5 projetos que representam minha capacidade de atuar em todo o espectro, da análise à produção. **Todos os 20+ projetos estão disponíveis no meu repositório `portfolio-ia`**.
 
 | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :--- |
