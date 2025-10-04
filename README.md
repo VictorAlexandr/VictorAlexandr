@@ -97,21 +97,19 @@ Essa combinação quadridimensional me permite transitar da análise de dados à
 
 ---
 
----
-
 
 ### 🚀 Meus Projetos em Destaque
 
-Selecionei projetos que representam minha capacidade de atuar no ciclo completo da IA: da análise profunda de dados à engenharia de aplicações inteligentes, culminando no desenvolvimento de plataformas completas que resolvem problemas de negócio reais.
+Selecionei projetos do meu "Dojo de IA" que demonstram minha capacidade de atuar no ciclo completo, da análise profunda de dados à engenharia de aplicações inteligentes e plataformas completas.
 
 | Pilar | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :--- | :--- |
-| **🔬 Ciência de Dados** | **Análise de Risco de Crédito com IA Explicável (XAI)** | Construção de um modelo de Credit Scoring (PD) de alta performance e, crucialmente, o uso de SHAP para interpretar e explicar as decisões do modelo, uma habilidade essencial no setor financeiro. | `Python`, `XGBoost`, `SHAP` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **🔬 Ciência de Dados** | **Sistema de Detecção de Anomalias em Séries Temporais** | Desenvolvimento de um sistema que monitora métricas contínuas para identificar desvios de padrão (anomalias) e dispara alertas automatizados, essencial para manutenção preditiva e segurança. | `Prophet`, `Pandas`, `n8n` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **🤖 Engenharia de IA** | **API de Análise de Sentimentos em Tempo Real (Serverless)** | Deploy de um modelo de NLP como um endpoint de API serverless na AWS, focado em baixa latência, escalabilidade e custo-eficiência, demonstrando a capacidade de transformar um modelo em um produto. | `AWS Lambda`, `API Gateway`, `NLP` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **🤖 Engenharia de IA** | **Assistente de IA para Consultar Documentos (RAG)** | Criação de um chatbot que utiliza a arquitetura RAG e LLMs para responder perguntas complexas com base em uma base de conhecimento privada, uma das aplicações mais relevantes de IA Generativa hoje. | `LangChain`, `LLMs`, `Vector DBs`| [🔗 Link](LINK-PARA-A-PASTA) |
+| **🔬 Ciência de Dados** | **Previsão de Manutenção Preditiva (Indústria 4.0)** | Análise de dados de sensores de uma máquina industrial para prever falhas antes que elas ocorram, permitindo a manutenção proativa e reduzindo custos operacionais. | `Python`, `TensorFlow`, `LSTM` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🔬 Ciência de Dados** | **Sistema de Recomendação de Filmes com IA Explicável (XAI)** | Criação de um motor de recomendação e, crucialmente, o uso de SHAP/LIME para explicar *por que* uma recomendação foi feita, uma habilidade essencial para criar confiança no modelo. | `Python`, `Pandas`, `SHAP` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA** | **Pipeline de CI/CD para Modelos de ML com GitHub Actions** | Construção de um pipeline de MLOps que automatiza o retreinamento, teste e versionamento de um modelo sempre que há uma mudança no código, garantindo a integridade da produção. | `GitHub Actions`, `Docker`, `MLOps` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA** | **Orquestração de Agentes de IA com CrewAI para Pesquisa de Mercado** | Criação de uma equipe de agentes autônomos (Pesquisador, Analista, Redator) que colaboram para produzir um relatório completo sobre um novo mercado, demonstrando expertise em sistemas multi-agentes. | `Python`, `CrewAI`, `LLMs`, `APIs` | [🔗 Link](LINK-PARA-A-PASTA) |
 | **⚙️ Automação & Produto** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS (Agentes Autônomos como Serviço) que oferece uma suíte de "funcionários digitais" para executar tarefas de alto valor, demonstrando expertise em automação complexa e design de produto de IA. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](LINK-PARA-O-REPO) |
-| **⛓️ Blockchain & Visão** | **Synaptic Forge (Fundador & Arquiteto)** | **Fundador & Arquiteto Principal.** Estou desenvolvendo ativamente o Synaptic Forge, uma plataforma que cria uma rede de computação descentralizada para democratizar o treinamento de modelos de IA, utilizando um tokenômico próprio (Cortex - CTX) para recompensar os provedores de computação. | `Blockchain`, `DeFi`, `Solidity` | [🔗 Link](LINK-PARA-O-REPO) |
+| **⛓️ Blockchain & Visão** | **Synaptic Forge (Fundador & Arquiteto)** | **Fundador & Arquiteto Principal.** Estou desenvolvendo ativamente o Synaptic Forge, uma plataforma que cria uma rede de computação descentralizada para democratizar o treinamento de modelos de IA, utilizando um tokenômico próprio (Cortex - CTX). | `Blockchain`, `DeFi`, `Solidity` | [🔗 Link](LINK-PARA-O-REPO) |
 
 ---
 
