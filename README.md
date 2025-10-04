@@ -7,29 +7,25 @@
 <h1 align="center">Olá, eu sou o Victor Alexandre 👋</h1>
 
 <p align="center">
-  <strong>Arquiteto de Soluções Inteligentes e Automação</strong><br>
-  <em>Cientista de Dados | Engenheiro de IA | Especialista em Automação</em>
+  <strong>Arquiteto de Soluções Inteligentes, Dados e Automação</strong><br>
+  <em>Cientista de Dados | Engenheiro de IA | Especialista em Automação | Desenvolvedor Blockchain</em>
 </p>
 
 ---
 
-### 💡 Minha Filosofia Profissional (O Perfil T-Shaped)
+### 💡 Minha Filosofia Profissional (O Construtor de Ponta a Ponta)
 
-Acredito que a maestria em tecnologia é forjada na prática deliberada. Enquanto cursos teóricos constroem o mapa, são os projetos práticos que nos ensinam a navegar no terreno complexo do mundo real. Minha jornada, desde a fundação da **GlobalFlex Cloud** até a rápida imersão na **GLA**, foi guiada por um princípio: **aprender construindo**.
+Acredito que a verdadeira inovação acontece na interseção de múltiplas disciplinas. Minha carreira é guiada pelo princípio de **aprender construindo**, o que me levou a desenvolver uma expertise profunda e equilibrada em quatro pilares fundamentais da tecnologia moderna:
 
-Esta filosofia moldou meu perfil profissional em um formato **T-Shaped**, com uma profundidade clara e uma amplitude multidisciplinar:
+1.  **🔬 Ciência de Dados:** A curiosidade analítica para explorar dados, descobrir padrões ocultos e construir modelos preditivos que geram insights estratégicos.
+2.  **🤖 Engenharia de IA & MLOps:** A disciplina de engenharia para transformar modelos em produtos robustos, escaláveis e automatizados, gerenciando todo o seu ciclo de vida em produção.
+3.  **⚙️ Engenharia de Automação:** O pragmatismo para conectar sistemas, otimizar fluxos de trabalho e entregar valor de negócio de forma rápida e eficiente, eliminando a fricção dos processos.
+4.  **⛓️ Desenvolvimento Blockchain & Web3:** A visão de vanguarda para arquitetar a próxima geração de aplicações descentralizadas, seguras e transparentes.
 
-- **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA e MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, desde a concepção até a produção escalável, garantindo que a inteligência gerada chegue ao usuário final de forma confiável.
+Essa combinação quadridimensional me permite transitar da análise de dados à implementação de sistemas de IA, da automação de processos à criação de soluções em blockchain, sempre com foco em construir soluções que sejam tecnicamente sofisticadas e alinhadas aos objetivos de negócio.
 
-- **A Amplitude (a barra horizontal do T):** Minha expertise é sustentada por três pilares complementares:
-    1.  **Ciência & Engenharia de Dados:** A disciplina para extrair insights e construir fundações de dados robustas que alimentam os sistemas de IA.
-    2.  **Engenharia de Automação:** O pragmatismo para conectar sistemas e entregar valor de forma rápida e eficiente, eliminando a fricção nos processos de negócio.
-    3.  **Desenvolvimento Blockchain & Web3:** A visão de vanguarda para construir a próxima geração de aplicações descentralizadas. Atualmente, estou aplicando este conhecimento no desenvolvimento de uma nova criptomoeda, explorando os fundamentos de protocolos, criptografia e finanças descentralizadas (DeFi).
-
-Essa combinação me permite não apenas desenvolver soluções tecnicamente sofisticadas, mas também garantir que elas sejam práticas, seguras, alinhadas ao negócio e construídas para durar.
-
-- 🌱 Minha meta atual é obter as certificações **AWS Machine Learning Specialty** e **Engineer**.
-- 🚀 Busco ativamente por desafios que me permitam construir sistemas de IA de ponta a ponta.
+- 🌱 Minhas metas atuais incluem a obtenção das certificações **AWS Machine Learning** e a exploração avançada de protocolos **DeFi**.
+- 🚀 Meu "Dojo" de projetos práticos, cobrindo todos os quatro pilares, está sempre ativo. Veja minhas explorações no [meu repositório de portfólio](https://github.com/VictorAlexandr/Portfolio-de-IA).
 - 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
 
 ---
@@ -37,60 +33,61 @@ Essa combinação me permite não apenas desenvolver soluções tecnicamente sof
 ### 🛠️ Tech Stack & Ferramentas
 
 <p align="left">
-  <strong>☁️ Cloud & MLOps:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/></a>
+  <strong>🤖 IA & Machine Learning:</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prophet-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-1A568C?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 <p align="left">
-  <strong>🔧 Engenharia & Análise de Dados:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+  <strong>☁️ Cloud, MLOps & Engenharia de Dados:</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
 </p>
 
 <p align="left">
-  <strong>🤖 Machine Learning & IA Clássica:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prophet-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-1A568C?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"/></a>
-</p>
-
-<p align="left">
-  <strong>💻 Desenvolvimento, Automação & BI:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lovable-FF497A?style=for-the-badge&logo=love&logoColor=white" alt="Lovable"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Merlin-9B59B6?style=for-the-badge" alt="Merlin"/></a>
+  <strong>⚙️ Automação, Desenvolvimento & Ferramentas:</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge" alt="APIs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Make-6E35C2?style=for-the-badge" alt="Make (Integromat)"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Merlin-9B59B6?style=for-the-badge" alt="Merlin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Metabase-509488?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=HubSpot&logoColor=white" alt="HubSpot"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lovable-FF497A?style=for-the-badge&logo=love&logoColor=white" alt="Lovable"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor"/></a>
 </p>
 
 <p align="left">
-  <strong>⛓️ Blockchain & Web3:</strong><br>
+  <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CrewAI-1A73E8?style=for-the-badge" alt="CrewAI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/DeFi-6A1B9A?style=for-the-badge" alt="DeFi"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge" alt="Cryptography"/></a>
-</p>
-
-<p align="left">
-  <strong>🌌 Computação Avançada & Pesquisa de Vanguarda:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PennyLane-2A334D?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_Braket-59238E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Braket"/></a>
@@ -100,17 +97,21 @@ Essa combinação me permite não apenas desenvolver soluções tecnicamente sof
 
 ---
 
-### 🚀 Meus 5 Projetos em Destaque
+---
 
-Selecionei 5 projetos que representam minha capacidade de atuar em todo o espectro, da análise à produção. **Todos os 20+ projetos estão disponíveis no meu repositório `portfolio-ia`**.
 
-| Projeto | Descrição | Tecnologias Principais | Repositório |
-| :--- | :--- | :--- | :--- |
-| **1. Pipeline de MLOps para Previsão de Churn** | Pipeline de ponta a ponta que automatiza o treinamento, versionamento e deploy de um modelo de classificação usando Databricks e MLflow. | `Databricks`, `MLflow`, `Scikit-learn`, `MLOps` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/01-mlops-pipeline-churn-prediction) |
-| **2. API de Análise de Sentimentos em Tempo Real** | Deploy de um modelo de NLP como um endpoint escalável na AWS, capaz de classificar o sentimento de textos em tempo real. | `AWS SageMaker`, `Python`, `NLP`, `API REST` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/02-api-sentiment-analysis-sagemaker) |
-| **3. Assistente de IA para Consultar Documentos (RAG)**| Chatbot que utiliza a arquitetura RAG e LLMs para responder perguntas com base em uma base de conhecimento de documentos privados. | `LangChain`, `LLMs`, `Vector DBs`, `Python` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/05-rag-document-assistant-langchain) |
-| **4. Data Lakehouse para Análise de Vendas** | Construção de um pipeline de dados robusto (Bronze, Silver, Gold) na Databricks para processar e estruturar dados para análises de BI. | `Databricks`, `Delta Lake`, `Spark SQL`, `Eng. de Dados` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/04-data-lakehouse-sales-analytics) |
-| **5. Automação de Coleta e Qualificação de Dados** | Workflow no n8n que extrai dados de múltiplas fontes, os enriquece usando uma API de IA e os carrega em um banco de dados estruturado. | `n8n`, `APIs`, `Webhooks`, `Supabase` | [🔗 Link](https://github.com/VictorAlexandr/Portfolio-de-IA/tree/main/03-automation-data-enrichment-n8n) |
+### 🚀 Meus Projetos em Destaque
+
+Selecionei projetos que representam minha capacidade de atuar no ciclo completo da IA: da análise profunda de dados à engenharia de aplicações inteligentes, culminando no desenvolvimento de plataformas completas que resolvem problemas de negócio reais.
+
+| Pilar | Projeto | Descrição | Tecnologias Principais | Repositório |
+| :--- | :--- | :--- | :--- | :--- |
+| **🔬 Ciência de Dados** | **Análise de Risco de Crédito com IA Explicável (XAI)** | Construção de um modelo de Credit Scoring (PD) de alta performance e, crucialmente, o uso de SHAP para interpretar e explicar as decisões do modelo, uma habilidade essencial no setor financeiro. | `Python`, `XGBoost`, `SHAP` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🔬 Ciência de Dados** | **Sistema de Detecção de Anomalias em Séries Temporais** | Desenvolvimento de um sistema que monitora métricas contínuas para identificar desvios de padrão (anomalias) e dispara alertas automatizados, essencial para manutenção preditiva e segurança. | `Prophet`, `Pandas`, `n8n` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA** | **API de Análise de Sentimentos em Tempo Real (Serverless)** | Deploy de um modelo de NLP como um endpoint de API serverless na AWS, focado em baixa latência, escalabilidade e custo-eficiência, demonstrando a capacidade de transformar um modelo em um produto. | `AWS Lambda`, `API Gateway`, `NLP` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA** | **Assistente de IA para Consultar Documentos (RAG)** | Criação de um chatbot que utiliza a arquitetura RAG e LLMs para responder perguntas complexas com base em uma base de conhecimento privada, uma das aplicações mais relevantes de IA Generativa hoje. | `LangChain`, `LLMs`, `Vector DBs`| [🔗 Link](LINK-PARA-A-PASTA) |
+| **⚙️ Automação & Produto** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS (Agentes Autônomos como Serviço) que oferece uma suíte de "funcionários digitais" para executar tarefas de alto valor, demonstrando expertise em automação complexa e design de produto de IA. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](LINK-PARA-O-REPO) |
+| **⛓️ Blockchain & Visão** | **Synaptic Forge (Fundador & Arquiteto)** | **Fundador & Arquiteto Principal.** Estou desenvolvendo ativamente o Synaptic Forge, uma plataforma que cria uma rede de computação descentralizada para democratizar o treinamento de modelos de IA, utilizando um tokenômico próprio (Cortex - CTX) para recompensar os provedores de computação. | `Blockchain`, `DeFi`, `Solidity` | [🔗 Link](LINK-PARA-O-REPO) |
 
 ---
 
