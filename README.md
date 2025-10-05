@@ -13,19 +13,21 @@
 
 ---
 
-### 💡 Minha Filosofia Profissional (O Construtor de Ponta a Ponta)
+### 💡 Minha Filosofia Profissional (O Arquiteto T-Shaped)
 
-Acredito que a verdadeira inovação acontece na interseção de múltiplas disciplinas. Minha carreira é guiada pelo princípio de **aprender construindo**, o que me levou a desenvolver uma expertise profunda e equilibrada em quatro pilares fundamentais da tecnologia moderna:
+Acredito que a maestria em tecnologia é forjada na prática deliberada. Minha jornada, desde a fundação da **GlobalFlex Cloud** até a rápida imersão na **GLA**, foi guiada por um princípio: **aprender construindo**. Essa filosofia moldou meu perfil profissional em um formato **T-Shaped**.
 
-1.  **🔬 Ciência de Dados:** A curiosidade analítica para explorar dados, descobrir padrões ocultos e construir modelos preditivos que geram insights estratégicos.
-2.  **🤖 Engenharia de IA & MLOps:** A disciplina de engenharia para transformar modelos em produtos robustos, escaláveis e automatizados, gerenciando todo o seu ciclo de vida em produção.
-3.  **⚙️ Engenharia de Automação:** O pragmatismo para conectar sistemas, otimizar fluxos de trabalho e entregar valor de negócio de forma rápida e eficiente, eliminando a fricção dos processos.
-4.  **⛓️ Desenvolvimento Blockchain & Web3:** A visão de vanguarda para arquitetar a próxima geração de aplicações descentralizadas, seguras e transparentes.
+- **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA & MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, da concepção à produção escalável.
 
-Essa combinação quadridimensional me permite transitar da análise de dados à implementação de sistemas de IA, da automação de processos à criação de soluções em blockchain, sempre com foco em construir soluções que sejam tecnicamente sofisticadas e alinhadas aos objetivos de negócio.
+- **A Amplitude (a barra horizontal do T):** Minha expertise é sustentada por três pilares sinérgicos:
+    1.  **🔬 Ciência de Dados:** A base analítica para explorar dados, formular hipóteses e construir os modelos que serão o coração das minhas soluções de engenharia.
+    2.  **⚙️ Engenharia de Automação:** O pragmatismo para conectar sistemas e entregar valor de negócio de forma rápida, integrando a IA aos processos existentes.
+    3.  **⛓️ Desenvolvimento Blockchain & Web3:** A visão de vanguarda para construir a próxima geração de aplicações descentralizadas. Atualmente, estou aplicando este conhecimento como **fundador e arquiteto do Q-Veritas (VRT)**, uma blockchain projetada para ser segura na era da computação quântica.
 
-- 🌱 Minhas metas atuais incluem a obtenção das certificações **AWS Machine Learning** e a exploração avançada de protocolos **DeFi**.
-- 🚀 Meu "Dojo" de projetos práticos, cobrindo todos os quatro pilares, está sempre ativo. Veja minhas explorações no [meu repositório de portfólio](https://github.com/VictorAlexandr/Portfolio-de-IA).
+Essa estrutura me permite não apenas construir soluções técnicas profundas em IA, mas também entender o ecossistema completo ao redor delas, garantindo que o que eu construo seja relevante, seguro e alinhado ao futuro da tecnologia.
+
+- 🌱 Minha meta atual é obter as certificações **AWS Machine Learning Specialty** e **Engineer**.
+- 🚀 Meu "Dojo" de projetos, incluindo o desenvolvimento do Q-Veritas, está sempre ativo. Veja minhas explorações no [meu repositório de portfólio](LINK-PARA-SEU-MONOREPO-AQUI).
 - 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
 
 ---
@@ -98,19 +100,18 @@ Essa combinação quadridimensional me permite transitar da análise de dados à
 
 ---
 
-
 ### 🚀 Meus Projetos em Destaque
 
-Selecionei projetos do meu "Dojo de IA" que demonstram minha capacidade de atuar no ciclo completo, da análise profunda de dados à engenharia de aplicações inteligentes e plataformas completas.
+Selecionei projetos que representam minha capacidade de atuar nos quatro pilares, da análise de dados à produção e à vanguarda da tecnologia descentralizada.
 
 | Pilar | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :--- | :--- |
 | **🔬 Ciência de Dados** | **Previsão de Manutenção Preditiva (Indústria 4.0)** | Análise de dados de sensores de uma máquina industrial para prever falhas antes que elas ocorram, permitindo a manutenção proativa e reduzindo custos operacionais. | `Python`, `TensorFlow`, `LSTM` | [🔗 Link](LINK-PARA-A-PASTA) |
 | **🔬 Ciência de Dados** | **Sistema de Recomendação de Filmes com IA Explicável (XAI)** | Criação de um motor de recomendação e, crucialmente, o uso de SHAP/LIME para explicar *por que* uma recomendação foi feita, uma habilidade essencial para criar confiança no modelo. | `Python`, `Pandas`, `SHAP` | [🔗 Link](LINK-PARA-A-PASTA) |
 | **🤖 Engenharia de IA** | **Pipeline de CI/CD para Modelos de ML com GitHub Actions** | Construção de um pipeline de MLOps que automatiza o retreinamento, teste e versionamento de um modelo sempre que há uma mudança no código, garantindo a integridade da produção. | `GitHub Actions`, `Docker`, `MLOps` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **🤖 Engenharia de IA** | **Orquestração de Agentes de IA com CrewAI para Pesquisa de Mercado** | Criação de uma equipe de agentes autônomos (Pesquisador, Analista, Redator) que colaboram para produzir um relatório completo sobre um novo mercado, demonstrando expertise em sistemas multi-agentes. | `Python`, `CrewAI`, `LLMs`, `APIs` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **⚙️ Automação & Produto** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS (Agentes Autônomos como Serviço) que oferece uma suíte de "funcionários digitais" para executar tarefas de alto valor, demonstrando expertise em automação complexa e design de produto de IA. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](LINK-PARA-O-REPO) |
-| **⛓️ Blockchain & Visão** | **Synaptic Forge (Fundador & Arquiteto)** | **Fundador & Arquiteto Principal.** Estou desenvolvendo ativamente o Synaptic Forge, uma plataforma que cria uma rede de computação descentralizada para democratizar o treinamento de modelos de IA, utilizando um tokenômico próprio (Cortex - CTX). | `Blockchain`, `DeFi`, `Solidity` | [🔗 Link](LINK-PARA-O-REPO) |
+| **🤖 Engenharia de IA** | **Orquestração de Agentes de IA com CrewAI para Pesquisa de Mercado** | Criação de uma equipe de agentes autônomos (Pesquisador, Analista, Redator) que colaboram para produzir um relatório completo sobre um novo mercado. | `Python`, `CrewAI`, `LLMs`, `APIs` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **⚙️ Automação & Produto** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS que oferece uma suíte de "funcionários digitais" para executar tarefas de alto valor, demonstrando expertise em automação complexa e design de produto de IA. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](LINK-PARA-O-REPO) |
+| **⛓️ Blockchain & Visão** | **Q-Veritas (VRT): A Criptomoeda do Legado Digital** | **Fundador & Arquiteto.** Estou arquitetando o Q-Veritas, uma blockchain imune à ameaça quântica, utilizando Criptografia Pós-Quântica (PQC) para ser o cofre definitivo para ativos digitais de longo prazo. | `Blockchain`, `PQC`, `DeFi` | [🔗 Link](LINK-PARA-O-REPO) |
 
 ---
 
