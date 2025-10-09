@@ -37,6 +37,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 <p align="left">
   <strong>🤖 IA & Machine Learning:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
@@ -64,19 +65,20 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 
 <p align="left">
   <strong>⚙️ Automação, Desenvolvimento & Ferramentas:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/></a>
   <a href="#"><img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge" alt="APIs"/></a>
   <a href="#"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Make-6E35C2?style=for-the-badge" alt="Make (Integromat)"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Merlin-9B59B6?style=for-the-badge" alt="Merlin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Metabase-509488?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=HubSpot&logoColor=white" alt="HubSpot"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lovable-FF497A?style=for-the-badge&logo=love&logoColor=white" alt="Lovable"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor"/></a>
 </p>
 
@@ -88,16 +90,11 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CrewAI-1A73E8?style=for-the-badge" alt="CrewAI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vector_DB-9162C0?style=for-the-badge" alt="Vector Databases"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/DeFi-6A1B9A?style=for-the-badge" alt="DeFi"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PennyLane-2A334D?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_Braket-59238E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Braket"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cirq-3d5a7d?style=for-the-badge&logo=google&logoColor=white" alt="Cirq"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Metacognitive_AI-Research-4A00E0?style=for-the-badge" alt="Metacognitive AI Research"/></a>
 </p>
 
 ---
