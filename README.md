@@ -85,6 +85,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 <p align="left">
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
+   <a href="#"><img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-000000?style=for-the-badge" alt="RAG"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Agent_Builder_(OpenAI)-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent Builder"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lovable_Cloud_&_AI-5A45F3?style=for-the-badge" alt="Lovable Cloud & AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
@@ -95,7 +96,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Pinecone-3C76FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Cohere-3D40E3?style=for-the-badge" alt="Cohere Rerank"/></a>
   <a href="#"><img src="https://img.shields.io/badge/RAGAs-E84362?style=for-the-badge" alt="RAGAs"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blockchain-97CA00?style=for-the-badge&logo=blockchain.com&logoColor=black" alt="Blockchain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PennyLane-2A334D?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_Braket-59238E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Braket"/></a>
