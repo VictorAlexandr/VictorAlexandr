@@ -85,7 +85,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 <p align="left">
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenAI_GPTs-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPTs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Agent_Builder_(OpenAI)-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent Builder"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lovable_Cloud_&_AI-5A45F3?style=for-the-badge" alt="Lovable Cloud & AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
@@ -96,8 +96,6 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/PennyLane-2A334D?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_Braket-59238E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Braket"/></a>
 </p>
-
----
 
 ### 🚀 Meus Projetos em Destaque
 
