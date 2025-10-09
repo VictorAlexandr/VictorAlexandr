@@ -89,8 +89,12 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Lovable_Cloud_&_AI-5A45F3?style=for-the-badge" alt="Lovable Cloud & AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangSmith-FD8108?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CrewAI-1A73E8?style=for-the-badge" alt="CrewAI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vector_DB-9162C0?style=for-the-badge" alt="Vector Databases"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pinecone-3C76FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cohere-3D40E3?style=for-the-badge" alt="Cohere Rerank"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RAGAs-E84362?style=for-the-badge" alt="RAGAs"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PennyLane-2A334D?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/></a>
