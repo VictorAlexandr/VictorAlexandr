@@ -61,18 +61,21 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy"/></a>
 </p>
 
 <p align="left">
   <strong>⚙️ Automação, Desenvolvimento & Ferramentas:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/></a>
   <a href="#"><img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge" alt="APIs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Make-6E35C2?style=for-the-badge" alt="Make (Integromat)"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Merlin-9B59B6?style=for-the-badge" alt="Merlin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cursor-171717?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Metabase-509488?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
@@ -85,7 +88,8 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 <p align="left">
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
-   <a href="#"><img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-000000?style=for-the-badge" alt="RAG"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-8A2BE2?style=for-the-badge" alt="MCP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-000000?style=for-the-badge" alt="RAG"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Agent_Builder_(OpenAI)-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent Builder"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lovable_Cloud_&_AI-5A45F3?style=for-the-badge" alt="Lovable Cloud & AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
