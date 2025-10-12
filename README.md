@@ -39,6 +39,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Isolation_Forest-4682B4?style=for-the-badge" alt="Isolation Forest"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
@@ -96,6 +97,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LangSmith-FD8108?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CrewAI-1A73E8?style=for-the-badge" alt="CrewAI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tavily-000000?style=for-the-badge" alt="Tavily AI Search"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vector_DB-9162C0?style=for-the-badge" alt="Vector Databases"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Pinecone-3C76FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Cohere-3D40E3?style=for-the-badge" alt="Cohere Rerank"/></a>
