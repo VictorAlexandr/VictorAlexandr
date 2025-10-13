@@ -72,7 +72,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Make-6E35C2?style=for-the-badge" alt="Make (Integromat)"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Mage-6A0DAD?style=for-the-badge" alt="Mage AI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mage AI-6A0DAD?style=for-the-badge" alt="Mage AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Merlin-9B59B6?style=for-the-badge" alt="Merlin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok"/></a>
