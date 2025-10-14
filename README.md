@@ -56,7 +56,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-150458?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Codespaces-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
