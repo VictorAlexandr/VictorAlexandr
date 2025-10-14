@@ -14,7 +14,7 @@
 ---
 
 ### 💡 Minha Filosofia Profissional (O Arquiteto T-Shaped)
-
+ 
 Acredito que a maestria em tecnologia é forjada na prática deliberada. Minha jornada, desde a fundação da **GlobalFlex Cloud** até a rápida imersão na **GLA**, foi guiada por um princípio: **aprender construindo**. Essa filosofia moldou meu perfil profissional em um formato **T-Shaped**.
 
 - **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA & MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, da concepção à produção escalável.
