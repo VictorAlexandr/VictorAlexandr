@@ -46,6 +46,8 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Lifelines-466A84?style=for-the-badge" alt="Lifelines"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyMC-007ACC?style=for-the-badge" alt="PyMC"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SHAP-E61E5A?style=for-the-badge" alt="SHAP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/XAI_(Explainable_AI)-000000?style=for-the-badge" alt="XAI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LIME-8BC34A?style=for-the-badge" alt="LIME"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Great_Expectations-FF6F00?style=for-the-badge" alt="Great Expectations"/></a>
   <a href="#"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="NLTK"/></a>
@@ -89,6 +91,9 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Vibe_Coding-150458?style=for-the-badge" alt="Vibe Coding"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Llama-6F42C1?style=for-the-badge" alt="Llama"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Fine_Tuning-4CAF50?style=for-the-badge" alt="Fine-Tuning"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RLHF-FFC107?style=for-the-badge&logoColor=black" alt="RLHF"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
   <a href="#"><img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" alt="RAG"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-8A2BE2?style=for-the-badge" alt="MCP"/></a>
