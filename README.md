@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Olá, eu sou o Victor Alexandre 👋</h1>
-
+ 
 <p align="center">
   <strong>Arquiteto de Soluções Inteligentes, Dados e Automação</strong><br>
   <em>Cientista de Dados | Engenheiro de IA | Especialista em Automação | Desenvolvedor Blockchain</em>
