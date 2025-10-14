@@ -31,23 +31,25 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 - 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
 
 ---
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <p align="left">
   <strong>🤖 IA & Machine Learning:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Isolation_Forest-4682B4?style=for-the-badge" alt="Isolation Forest"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prophet-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-1A568C?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>  
   <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-1A568C?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prophet-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lifelines-466A84?style=for-the-badge" alt="Lifelines"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyMC-007ACC?style=for-the-badge" alt="PyMC"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SHAP-E61E5A?style=for-the-badge" alt="SHAP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Great_Expectations-FF6F00?style=for-the-badge" alt="Great Expectations"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="NLTK"/></a>
 </p>
 
 <p align="left">
@@ -55,59 +57,55 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a>
 </p>
 
 <p align="left">
   <strong>⚙️ Automação, Desenvolvimento & Ferramentas:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge" alt="APIs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Deepnote-000000?style=for-the-badge&logo=deepnote&logoColor=white" alt="Deepnote"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeScene-24292E?style=for-the-badge&logo=github&logoColor=white" alt="CodeScene"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Camber-000000?style=for-the-badge&logo=camber&logoColor=white" alt="Camber"/></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Make-6E35C2?style=for-the-badge" alt="Make (Integromat)"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Mage AI-6A0DAD?style=for-the-badge" alt="Mage AI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Merlin-9B59B6?style=for-the-badge" alt="Merlin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cursor-171717?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mage_AI-6A0DAD?style=for-the-badge" alt="Mage AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" alt="Pydantic"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Metabase-509488?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=HubSpot&logoColor=white" alt="HubSpot"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lovable-FF497A?style=for-the-badge&logo=love&logoColor=white" alt="Lovable"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Requestly-22C55E?style=for-the-badge&logo=requestly&logoColor=white" alt="Requestly"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PomoDone-D24D4D?style=for-the-badge&logo=pomodoro-technique&logoColor=white" alt="PomoDone"/></a>
 </p>
 
 <p align="left">
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-8A2BE2?style=for-the-badge" alt="MCP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-000000?style=for-the-badge" alt="RAG"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Agent_Builder_(OpenAI)-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent Builder"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lovable_Cloud_&_AI-5A45F3?style=for-the-badge" alt="Lovable Cloud & AI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" alt="RAG"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-8A2BE2?style=for-the-badge" alt="MCP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Agent_Builder_(OpenAI)-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent Builder"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LangSmith-FD8108?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CrewAI-1A73E8?style=for-the-badge" alt="CrewAI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Tavily-000000?style=for-the-badge" alt="Tavily AI Search"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vector_DB-9162C0?style=for-the-badge" alt="Vector Databases"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pinecone-3C76FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Cohere-3D40E3?style=for-the-badge" alt="Cohere Rerank"/></a>
   <a href="#"><img src="https://img.shields.io/badge/RAGAs-E84362?style=for-the-badge" alt="RAGAs"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vector_DB-9162C0?style=for-the-badge" alt="Vector Databases"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pinecone-3C76FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blockchair-3C87C7?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchair"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blockchain-97CA00?style=for-the-badge&logo=blockchain.com&logoColor=black" alt="Blockchain"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PennyLane-2A334D?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_Braket-59238E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Braket"/></a>
 </p>
+
 
 ### 🚀 Meus Projetos em Destaque
 
