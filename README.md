@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <!-- Substitua pelo caminho da imagem que você subiu -->
-  <img src="https://github.com/user-attachments/assets/6982c612-f7c3-4ca5-88f9-df30eadb30a0" alt="Banner do Perfil de Victor Alexandre">
+  <img src="https://github.com/user-attachments/assets/6982c612-f7c3-4ca5-88f9-df30eadb30a0" alt="Banner do Perfil de Victor Alexandre"> 
 </p>
 
 <h1 align="center">Olá, eu sou o Victor Alexandre 👋</h1>
