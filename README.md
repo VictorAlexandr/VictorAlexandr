@@ -35,15 +35,14 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 
 <p align="left">
   <strong>🤖 IA & Machine Learning:</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3D40E3?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-FFFFF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-59238E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>  
   <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-1A568C?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prophet-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/XGBoost-006090?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-D24D4D?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lifelines-466A84?style=for-the-badge" alt="Lifelines"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyMC-007ACC?style=for-the-badge" alt="PyMC"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SHAP-E61E5A?style=for-the-badge" alt="SHAP"/></a>
@@ -55,8 +54,8 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 <p align="left">
   <strong>☁️ Cloud, MLOps & Engenharia de Dados:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-150458?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
