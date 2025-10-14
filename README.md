@@ -87,6 +87,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 
 <p align="left">
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
+  <a href="#"><img src="https://img.shields.io/badge/Vibe_Coding-9F33FF?style=for-the-badge" alt="Vibe Coding"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
   <a href="#"><img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" alt="RAG"/></a>
