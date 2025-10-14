@@ -36,7 +36,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 <p align="left">
   <strong>🤖 IA & Machine Learning:</strong><br>
   <a href="#"><img src="https://img.shields.io/badge/Python-3D40E3?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas"/></a>
   <a href="#"><img src="https://img.shields.io/badge/scikit_learn-FFFFF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-59238E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>  
@@ -87,7 +87,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 
 <p align="left">
   <strong>🌌 Vanguarda & Pesquisa (GenAI, Web3, Quantum):</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/Vibe_Coding-9F33FF?style=for-the-badge" alt="Vibe Coding"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vibe_Coding-150458?style=for-the-badge" alt="Vibe Coding"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge" alt="Large Language Models"/></a>
   <a href="#"><img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" alt="RAG"/></a>
