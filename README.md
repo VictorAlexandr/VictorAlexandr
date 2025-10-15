@@ -115,18 +115,17 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 
 ### 🚀 Meus Projetos em Destaque
 
-Selecionei projetos que representam minha capacidade de atuar nos quatro pilares, da análise de dados à produção e à vanguarda da tecnologia descentralizada.
+Esta é uma curadoria estratégica de projetos que representam minha especialização profunda em construir sistemas de IA de ponta a ponta — da fundação e otimização até a aplicação em produtos e a visão de futuro.
 
 | Pilar | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :--- | :--- |
-| **🔬 Ciência de Dados** | **Previsão de Manutenção Preditiva (Indústria 4.0)** | Análise de dados de sensores de uma máquina industrial para prever falhas antes que elas ocorram, permitindo a manutenção proativa e reduzindo custos operacionais. | `Python`, `TensorFlow`, `LSTM` | [🔗 Link](https://github.com/VictorAlexandr/portfolio-ia/tree/main/ciencia-de-dados/Previsão%20de%20Manutenção%20Preditiva%20(Indústria%204.0)) |
-| **🔬 Ciência de Dados** | **Sistema de Recomendação de Filmes com IA Explicável (XAI)** | Criação de um motor de recomendação e, crucialmente, o uso de SHAP/LIME para explicar *por que* uma recomendação foi feita, uma habilidade essencial para criar confiança no modelo. | `Python`, `Pandas`, `SHAP` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **🤖 Engenharia de IA** | **Pipeline de CI/CD para Modelos de ML com GitHub Actions** | Construção de um pipeline de MLOps que automatiza o retreinamento, teste e versionamento de um modelo sempre que há uma mudança no código, garantindo a integridade da produção. | `GitHub Actions`, `Docker`, `MLOps` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **🤖 Engenharia de IA** | **Orquestração de Agentes de IA com CrewAI para Pesquisa de Mercado** | Criação de uma equipe de agentes autônomos (Pesquisador, Analista, Redator) que colaboram para produzir um relatório completo sobre um novo mercado. | `Python`, `CrewAI`, `LLMs`, `APIs` | [🔗 Link](LINK-PARA-A-PASTA) |
-| **⚙️ Automação & Produto** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS que oferece uma suíte de "funcionários digitais" para executar tarefas de alto valor, demonstrando expertise em automação complexa e design de produto de IA. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](https://github.com/VictorAlexandr/Ai-Command-Center) |
-| **⛓️ Blockchain & Visão** | **Q-Veritas (VRT): A Criptomoeda do Legado Digital** | **Fundador & Arquiteto.** Estou arquitetando o Q-Veritas, uma blockchain imune à ameaça quântica, utilizando Criptografia Pós-Quântica (PQC) para ser o cofre definitivo para ativos digitais de longo prazo. | `Blockchain`, `PQC`, `DeFi` | [🔗 Link](LINK-PARA-O-REPO) |
-
----
+| **🤖 Engenharia de IA (LLMOps)** | **Sistema de RAG em Larga Escala com Vector DB Gerenciado** | Construção da fundação de um sistema RAG robusto, utilizando um Vector DB na nuvem para lidar com grandes volumes de dados de forma eficiente. | `Python`, `LangChain`, `Pinecone`, `AWS` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA (LLMOps)** | **Sistema de RAG Avançado com Re-ranking** | Otimização da qualidade do RAG com técnicas de ponta como Re-ranking, garantindo que as respostas não sejam apenas corretas, mas as mais relevantes. | `Python`, `LangChain`, `Cohere Rerank` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA (LLMOps)** | **Agente de IA Híbrido: RAG com Ferramentas (Tools)** | Evolução do sistema RAG para um agente autônomo, capaz de consultar sua base de conhecimento e executar ações no mundo real via APIs. | `LangChain Agents`, `APIs`, `Tools` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA (LLMOps)** | **Orquestração de Agentes de IA com CrewAI** | Arquitetura de uma equipe de agentes de IA colaborativos que trabalham juntos para resolver problemas complexos que um único agente não conseguiria. | `Python`, `CrewAI`, `LLMs`, `APIs` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **🤖 Engenharia de IA (LLMOps)** | **Framework de Avaliação (Eval) para Sistemas RAG** | Implementação de um framework para medir objetivamente a qualidade de um sistema RAG, com métricas como "faithfulness" e "relevancy". | `Python`, `RAGAs`, `LangSmith` | [🔗 Link](LINK-PARA-A-PASTA) |
+| **⚙️ Automação & Produto** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS que empacota "funcionários digitais" para executar tarefas de alto valor, demonstrando a capacidade de transformar IA em produto. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](https://github.com/VictorAlexandr/Ai-Command-Center) |
+| **⛓️ Blockchain & Visão** | **Q-Veritas (VRT): A Criptomoeda do Legado Digital** | **Fundador & Arquiteto.** Arquitetura de uma blockchain imune à ameaça quântica, utilizando Criptografia Pós-Quântica (PQC) para o futuro da segurança digital. | `Blockchain`, `PQC`, `DeFi` | [🔗 Link](LINK-PARA-O-REPO) |
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206)">
