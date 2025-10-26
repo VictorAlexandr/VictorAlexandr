@@ -61,6 +61,7 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
   <a href="#"><img src="https://img.shields.io/badge/GitHub_Codespaces-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Codespaces"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LLMOps-8A2BE2?style=for-the-badge" alt="LLMOps"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
