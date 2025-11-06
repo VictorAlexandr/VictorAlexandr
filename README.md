@@ -114,18 +114,15 @@ Essa estrutura me permite não apenas construir soluções técnicas profundas e
 </p>
 
 
-### 🚀 Minha Tese em Engenharia de IA: Construindo Sistemas com Raciocínio
+### 🚀 Meus Projetos em Destaque
 
-Esta é uma curadoria estratégica de projetos que demonstra minha jornada e especialização em construir sistemas de IA de ponta a ponta. O foco é uma progressão deliberada de capacidades: desde a recuperação eficiente de conhecimento até a habilidade de raciocinar sobre relações complexas e operar de forma autônoma e segura.
+Esta é uma curadoria de projetos que demonstram minhas competências em três áreas chave: a construção de sistemas de IA robustos, a transformação de tecnologia em produtos (SaaS) e a arquitetura de soluções para os desafios de segurança do futuro.
 
-| Fase | Projeto | Descrição | Tecnologias Principais | Status |
+| Pilar | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. A Fundação** | **Sistema de RAG em Larga Escala** | Construção da fundação de um sistema RAG, com foco na ingestão e recuperação eficiente de dados em um Vector DB gerenciado. | `Python`, `LangChain`, `Pinecone`, `AWS` | [Completo](https://github.com/VictorAlexandr/portfolio-ia/tree/main/engenharia-de-ia/01-sistemas-rag-avancados/Sistema%20de%20RAG%20em%20Larga%20Escala%20com%20Vector%20DB%20Gerenciado) |
-| **2. A Otimização** | **Sistema de RAG Avançado com Re-ranking** | Otimização da qualidade do RAG com técnicas de ponta (Re-ranking, Classificação de Intenção) para garantir respostas de máxima relevância. | `Python`, `LangChain`, `Cohere`, `Pinecone` | [Completo](https://github.com/VictorAlexandr/portfolio-ia/tree/main/engenharia-de-ia/01-sistemas-rag-avancados/Sistema%20de%20RAG%20Avan%C3%A7ado%20com%20Re-ranking%20e%20Classifica%C3%A7%C3%A3o%20de%20Inten%C3%A7%C3%A3o) |
-| **3. O Raciocínio** | **RAG "Graph-Powered" Híbrido** | Construção de um sistema com raciocínio, que une a busca semântica do RAG com a análise de relações de um Banco de Dados de Grafos para responder a perguntas complexas. | `LangChain`, `Neo4j`, `Vector DBs` | *(Próximo)* |
-| **4. A Automação** | **Pipeline de Auto-Retreinamento por Drift** | Arquitetura de um pipeline MLOps autônomo que detecta *data drift* em produção e aciona automaticamente o retreinamento e deploy de um novo modelo. | `GitHub Actions`, `Evidently AI`, `Terraform` | *(Em Breve)* |
-| **5. A Segurança** | **"Red Teaming" Automatizado para LLMs** | Implementação de um framework que "ataca" um sistema de IA com perguntas capciosas para testar sua robustez e segurança antes do deploy. | `Python`, `Garak`, `LLM Agents` | *(Em Breve)* |
-| **Produto & SaaS** | **AI Command Center (AaaS Platform)** | **Fundador & Desenvolvedor.** Uma plataforma SaaS que empacota "funcionários digitais" para executar tarefas de alto valor, demonstrando a capacidade de transformar IA em produto. | `n8n`, `Gemini`, `Supabase` | [🔗 Link](https://github.com/VictorAlexandr/Ai-Command-Center) |
+| **🤖 Engenharia de IA (LLMOps)** | **Sistema de RAG em Larga Escala** | Construção da fundação de um sistema RAG, com foco na ingestão e recuperação eficiente de dados em um Vector DB gerenciado para produção. | `Python`, `LangChain`, `Pinecone`, `AWS` | [🔗 Link](https://github.com/VictorAlexandr/portfolio-ia/tree/main/engenharia-de-ia/01-sistemas-rag-avancados/Sistema%20de%20RAG%20em%20Larga%20Escala%20com%20Vector%20DB%20Gerenciado) |
+| **⚙️ IA como Produto (SaaS)** | **AI Command Center** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS (Software as a Service) que empacota "funcionários digitais" baseados em IA para executar tarefas de alto valor, demonstrando a capacidade de transformar tecnologia de ponta em um produto escalável. | `n8n`, `Gemini`, `Supabase`, `APIs` | [🔗 Link](https://github.com/VictorAlexandr/Ai-Command-Center) |
+| **⛓️ Blockchain & Segurança Quântica** | **Q-Veritas (VRT): A Criptomoeda do Legado Digital** | **Fundador & Arquiteto.** Arquitetura de uma blockchain imune à ameaça da computação quântica, utilizando Criptografia Pós-Quântica (PQC) para garantir a segurança de ativos e legados digitais no futuro. | `Blockchain`, `PQC`, `DeFi`, `Criptografia` | *(Repositório Privado)* |
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206)">
