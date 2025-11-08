@@ -1,3 +1,5 @@
+
+
 <!-- Banner -->
 <p align="center">
   <!-- Substitua pelo caminho da imagem que você subiu -->
@@ -7,28 +9,39 @@
 <h1 align="center">Olá, eu sou o Victor Alexandre 👋</h1>
  
 <p align="center">
-  <strong>Arquiteto de Soluções Inteligentes, Dados e Automação</strong><br>
-  <em>Cientista de Dados | Engenheiro de IA | Especialista em Automação | Desenvolvedor Blockchain</em>
+  <strong>Arquiteto de Soluções Inteligentes e Seguras</strong><br>
+  <em>Engenheiro de IA | Especialista em MLOps & Segurança de IA | Desenvolvedor Full-Cycle</em>
 </p>
  
 ---
 
-### 💡 Minha Filosofia Profissional (O Arquiteto T-Shaped)
+### 💡 Minha Filosofia: A Evolução para o Arquiteto M-Shaped
  
-Acredito que a maestria em tecnologia é forjada na prática deliberada. Minha jornada, desde a fundação da **GlobalFlex Cloud** até a rápida imersão na **GLA**, foi guiada por um princípio: **aprender construindo**. Essa filosofia moldou meu perfil profissional em um formato **T-Shaped**.
+Acredito que a maestria em tecnologia é forjada na prática deliberada: **aprender construindo**. Minha jornada tem sido guiada por essa filosofia, que inicialmente moldou meu perfil em um formato **T-Shaped**. Hoje, estou evoluindo essa estrutura para um perfil **M-Shaped**, construindo um segundo pilar de profundidade em uma das áreas mais críticas para o futuro da tecnologia.
 
-- **A Profundidade (a barra vertical do T):** Minha especialização profunda está em **Engenharia de IA & MLOps**. É aqui que eu arquiteturo o ciclo de vida completo de um modelo, da concepção à produção escalável.
+### Os Pilares da Minha Profundidade (O Perfil M-Shaped)
 
-- **A Amplitude (a barra horizontal do T):** Minha expertise é sustentada por três pilares sinérgicos:
-    1.  **🔬 Ciência de Dados:** A base analítica para explorar dados, formular hipóteses e construir os modelos que serão o coração das minhas soluções de engenharia.
-    2.  **⚙️ Engenharia de Automação:** O pragmatismo para conectar sistemas e entregar valor de negócio de forma rápida, integrando a IA aos processos existentes.
-    3.  **⛓️ Desenvolvimento Blockchain & Web3:** A visão de vanguarda para construir a próxima geração de aplicações descentralizadas. Atualmente, estou aplicando este conhecimento como **fundador e arquiteto do Q-Veritas (VRT)**, uma blockchain projetada para ser segura na era da computação quântica.
+Tenho duas especializações profundas e sinérgicas que se complementam:
 
-Essa estrutura me permite não apenas construir soluções técnicas profundas em IA, mas também entender o ecossistema completo ao redor delas, garantindo que o que eu construo seja relevante, seguro e alinhado ao futuro da tecnologia.
+1.  **🤖 Engenharia de IA & LLMOps (O Pilar da Construção):** Minha primeira especialização é arquitetar o ciclo de vida completo de um sistema de IA, da concepção e prototipação até o deploy e monitoramento em produção, garantindo soluções escaláveis e robustas.
 
-- 🌱 Minha meta atual é obter as certificações **AWS Machine Learning Specialty** e **Engineer**.
-- 🚀 Meu "Dojo" de projetos, incluindo o desenvolvimento do Q-Veritas, está sempre ativo. Veja minhas explorações no [meu repositório de portfólio](LINK-PARA-SEU-MONOREPO-AQUI).
-- 📫 Fale comigo: [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
+2.  **🛡️ Segurança & Ética de IA (O Pilar da Proteção):** Enquanto o primeiro pilar constrói, este protege. Minha segunda especialização é focada em mitigar as vulnerabilidades exclusivas dos sistemas de IA. Isso inclui a defesa contra ataques como **Prompt Injection** e **Data Poisoning**, garantindo a privacidade dos dados (LGPD) e auditando modelos para mitigar **bias e toxicidade**.
+
+### A Amplitude da Minha Expertise (A Base de Ponta a Ponta)
+
+Minha expertise de ponta a ponta é sustentada por três áreas que alimentam meus pilares de profundidade:
+
+- 🔬 **Ciência de Dados:** A base analítica para entender os modelos, validar hipóteses e garantir a robustez estatística das soluções.
+- ⚙️ **Engenharia de Automação:** O pragmatismo para conectar sistemas e entregar valor de negócio de forma rápida, otimizando o fluxo de trabalho.
+- ⛓️ **Desenvolvimento Blockchain & Web3:** A visão de vanguarda para construir a próxima geração de aplicações descentralizadas e seguras, como demonstrado na arquitetura do **Q-Veritas (VRT)**.
+
+Essa estrutura **M-Shaped** me permite não apenas **construir** soluções de IA inovadoras, mas também **protegê-las**, garantindo que o que eu desenvolvo seja robusto, escalável e, acima de tudo, **seguro e ético.**
+
+---
+
+- 🌱 **Meta Atual:** Obter a certificação **AI Engineer for Developers** e aprofundar meus conhecimentos práticos em **AI Security** e **Microsoft Azure**.
+- 🚀 **Meus "Dojos":** Explore minhas soluções em [**Engenharia de IA**](LINK_PARA_SEU_REPO_DE_IA) e meus novos estudos em [**Segurança de IA**](LINK_PARA_SEU_NOVO_REPO_DE_SEGURANÇA).
+- 📫 **Fale Comigo:** [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206) | [victorale94310@gmail.com](mailto:victorale94310@gmail.com)
 
 ---
 ### 🛠️ Tech Stack & Ferramentas
