@@ -126,17 +126,6 @@ Essa estrutura **M-Shaped** me permite não apenas **construir** soluções de I
   <a href="#"><img src="https://img.shields.io/badge/Amazon_Braket-59238E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Braket"/></a>
 </p>
 
-
-### 🚀 Meus Projetos em Destaque
-
-Esta é uma curadoria de projetos que demonstram minhas competências em três áreas chave: a construção de sistemas de IA robustos, a transformação de tecnologia em produtos (SaaS) e a arquitetura de soluções para os desafios de segurança do futuro.
-
-| Pilar | Projeto | Descrição | Tecnologias Principais | Repositório |
-| :--- | :--- | :--- | :--- | :--- |
-| **🤖 Engenharia de IA (LLMOps)** | **Sistema de RAG em Larga Escala** | Construção da fundação de um sistema RAG, com foco na ingestão e recuperação eficiente de dados em um Vector DB gerenciado para produção. | `Python`, `LangChain`, `Pinecone`, `AWS` | [🔗 Link](https://github.com/VictorAlexandr/portfolio-ia/tree/main/engenharia-de-ia/01-sistemas-rag-avancados/Sistema%20de%20RAG%20em%20Larga%20Escala%20com%20Vector%20DB%20Gerenciado) |
-| **⚙️ IA como Produto (SaaS)** | **AI Command Center** | **Fundador & Desenvolvedor Principal.** Uma plataforma SaaS (Software as a Service) que empacota "funcionários digitais" baseados em IA para executar tarefas de alto valor, demonstrando a capacidade de transformar tecnologia de ponta em um produto escalável. | `n8n`, `Gemini`, `Supabase`, `APIs` | [🔗 Link](https://github.com/VictorAlexandr/Ai-Command-Center) |
-| **⛓️ Blockchain & Segurança Quântica** | **Q-Veritas (VRT): A Criptomoeda do Legado Digital** | **Fundador & Arquiteto.** Arquitetura de uma blockchain imune à ameaça da computação quântica, utilizando Criptografia Pós-Quântica (PQC) para garantir a segurança de ativos e legados digitais no futuro. | `Blockchain`, `PQC`, `DeFi`, `Criptografia` | *(Repositório Privado)* |
-
 <p align="center">
   <a href="(https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
