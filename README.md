@@ -27,12 +27,73 @@
 
 Não apenas ferramentas, mas **como** eu construo sistemas distribuídos.
 
-| AI Engineering & LLMs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cloud, Edge & DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Security & Observability &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| :--- | :--- | :--- |
-| 🦜 **LangChain & CrewAI**<br>Orquestração de Agentes Autônomos e Sistemas Complexos | ☁️ **AWS & Docker**<br>Infraestrutura Escalável com Containerização e Serverless | 🛡️ **AI Red Teaming**<br>Testes Adversariais, Jailbreak Defense e Proteção de PII |
-| 🧠 **RAG Pipelines**<br>Pinecone + Embeddings para Recuperação de Contexto | ☸️ **Kubernetes**<br>Orquestração e Escalabilidade Horizontal de Microsserviços | 📊 **Datadog & Grafana**<br>Observabilidade Full-Stack e Monitoramento de Latência |
-| 🐍 **Python & PyTorch**<br>Fine-tuning de Modelos (LLMs) e Inferência Otimizada | 🏗️ **Terraform**<br>Infrastructure as Code (IaC) para Deploy Automatizado | 🔐 **OWASP LLM Top 10**<br>Mitigação de Riscos e Prompt Injection Defense |
-| ⚡ **n8n & FastAPI**<br>APIs de Alta Performance e Automação de Fluxos | 🐧 **Linux / Bash**<br>Automação de Scripting e Gerenciamento de Servidores | 🧪 **MLFlow**<br>Experiment Tracking e Ciclo de Vida de Modelos |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%">AI Engineering & LLMs</th>
+      <th width="33%">Cloud, Edge & DevOps</th>
+      <th width="33%">Security & Observability</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/LangChain_&_CrewAI-Orquestração-10B981?style=flat-square&logo=chainlink&logoColor=white&labelColor=000000"><br>
+        Agentes Autônomos e Sistemas Complexos.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS_&_Docker-Infraestrutura-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=000000"><br>
+        Containerização e Serverless Scalability.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/AI_Red_Teaming-Defense-DC143C?style=flat-square&logo=hackthebox&logoColor=white&labelColor=000000"><br>
+        Testes Adversariais, Jailbreak e PII.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/RAG_Pipelines-Context-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=000000"><br>
+        Pinecone + Embeddings para Recuperação.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Kubernetes-Scaling-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=000000"><br>
+        Orquestração Horizontal de Microsserviços.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Datadog_&_Grafana-Metrics-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=000000"><br>
+        Observabilidade Full-Stack e Latência.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Python_&_PyTorch-Training-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000"><br>
+        Fine-tuning de Modelos (LLMs) e Inferência.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=000000"><br>
+        Infraestrutura como Código para Deploy.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-Riscos-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=000000"><br>
+        Mitigação de Prompt Injection e Bias.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/n8n_&_FastAPI-Automation-FF6584?style=flat-square&logo=n8n&logoColor=white&labelColor=000000"><br>
+        APIs de Alta Performance e Fluxos.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux_/_Bash-OS-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=000000"><br>
+        Scripting e Gerenciamento de Servidores.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/MLFlow-Tracking-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=000000"><br>
+        Ciclo de Vida de Modelos e Experimentos.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
@@ -40,18 +101,54 @@ Não apenas ferramentas, mas **como** eu construo sistemas distribuídos.
 
 Desenvolvendo a infraestrutura da próxima geração de IA.
 
-| Venture | Categoria | Tech Stack & Foco | Status |
-| :--- | :--- | :--- | :--- |
-| **🟣 Velixr Protocol** | `Layer 0 / Economy` | **Blockchain + AI:** Identidade Soberana e Liquidação P2P para Agentes. | `Alpha` |
-| **🔴 The Neural Bombe** | `AI Security / Edge` | **Interpretabilidade:** Análise de vetores de ativação em tempo real. | `R&D` |
-| **🔵 Morphogenetic Nets** | `Infra / Self-Healing` | **Bio-mimética:** Orquestração de Edge inspirada em Turing. | `Concept` |
-| **🟡 QubitArc** | `Web3 / DeFi Sec` | **Risk AI:** Mitigação de risco de liquidez on-chain. | `Concept` |
-| **🟢 EcoEdge FW** | `Green AI / IoT` | **Hardware:** Pruning e Quantização para eficiência energética. | `Proto` |
-| **⚡ Digital Flow Hub** | `SaaS / Automation` | **Multi-Agent:** Força de trabalho digital por assinatura. | `Live` |
-
-<br>
-
-<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Venture</th>
+      <th width="20%">Categoria</th>
+      <th width="40%">Tech Stack & Foco</th>
+      <th width="15%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🟣 Velixr Protocol</b></td>
+      <td><img src="https://img.shields.io/badge/Layer_0-Economy-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Blockchain + AI:</b> Identidade Soberana e Liquidação P2P.</td>
+      <td><img src="https://img.shields.io/badge/●_ALPHA-8B5CF6?style=flat-square&labelColor=000000"></td>
+    </tr>
+    <tr>
+      <td><b>🔴 The Neural Bombe</b></td>
+      <td><img src="https://img.shields.io/badge/AI_Security-Edge-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Interpretabilidade:</b> Análise de vetores de ativação em tempo real.</td>
+      <td><img src="https://img.shields.io/badge/●_R&D-DC143C?style=flat-square&labelColor=000000"></td>
+    </tr>
+    <tr>
+      <td><b>🔵 Morphogenetic</b></td>
+      <td><img src="https://img.shields.io/badge/Infra-Self--Healing-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Bio-mimética:</b> Orquestração de Edge inspirada em Turing.</td>
+      <td><img src="https://img.shields.io/badge/●_CONCEPT-3B82F6?style=flat-square&labelColor=000000"></td>
+    </tr>
+    <tr>
+      <td><b>🟡 QubitArc</b></td>
+      <td><img src="https://img.shields.io/badge/Web3-DeFi_Sec-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Risk AI:</b> Mitigação de risco de liquidez on-chain.</td>
+      <td><img src="https://img.shields.io/badge/●_CONCEPT-EAB308?style=flat-square&labelColor=000000"></td>
+    </tr>
+    <tr>
+      <td><b>🟢 EcoEdge FW</b></td>
+      <td><img src="https://img.shields.io/badge/Green_AI-IoT-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Hardware:</b> Pruning e Quantização para eficiência energética.</td>
+      <td><img src="https://img.shields.io/badge/●_PROTO-10B981?style=flat-square&labelColor=000000"></td>
+    </tr>
+    <tr>
+      <td><b>⚡ Digital Flow Hub</b></td>
+      <td><img src="https://img.shields.io/badge/SaaS-Automation-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Multi-Agent:</b> Força de trabalho digital por assinatura.</td>
+      <td><img src="https://img.shields.io/badge/●_LIVE-FFFFFF?style=flat-square&labelColor=000000&color=000000"></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📊 GitHub Telemetry
 
