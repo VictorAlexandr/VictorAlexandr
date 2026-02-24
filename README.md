@@ -1,95 +1,84 @@
 <div align="center">
   
-  # Victor Alexandre
+  <h1 align="center">VICTOR ALEXANDRE</h1>
   
-  ### 🏗️ AI Solutions Architect | ☁️ Post-Grad in Cloud & Edge Computing
-  
+  <p align="center">
+    <code>// BUSINESS INTELLIGENCE & DATA STRATEGY @ SPARK</code><br>
+    <code>// POST-GRADUATE RESEARCHER: CLOUD & EDGE COMPUTING</code>
+  </p>
+
   <p>
-    Transformo modelos de IA em sistemas de produção resilientes, seguros e escaláveis.<br>
-    Foco em <b>AI Engineering</b>, <b>AI Security (Red Team)</b> e <b>Enterprise Automation</b>.
+    Architecting deterministic data ecosystems for non-deterministic environments.<br>
+    Bridging the gap between intelligent automation, high-performance edge computing, and quantum-resistant security protocols.
   </p>
 
   <br>
 
   <a href="https://portfolio-victor-doiu.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO_OFICIAL-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&border=D4AF37" height="35" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/EXECUTIVE_DOSSIER-030303?style=for-the-badge&logo=vercel&logoColor=white&color=030303&labelColor=030303" height="35" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-030303?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&color=030303&labelColor=030303" height="35" alt="LinkedIn" />
   </a>
 
 </div>
 
 <br>
 
-### 🛠️ Engineering Architecture & Stack
+### > ENGINEERING ARCHITECTURE & STACK
 
-Não apenas ferramentas, mas **como** eu construo sistemas distribuídos.
+Não apenas ferramentas, mas **como** eu orquestro sistemas distribuídos em produção.
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%">AI Engineering & LLMs</th>
-      <th width="33%">Cloud, Edge & DevOps</th>
-      <th width="33%">Security & Observability</th>
+      <th width="33%">Data Strategy & Automation</th>
+      <th width="33%">Cloud & Edge Infrastructure</th>
+      <th width="33%">AI Security & Quantum (PQC)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/LangChain_&_CrewAI-Orquestração-10B981?style=flat-square&logo=chainlink&logoColor=white&labelColor=000000"><br>
-        Agentes Autônomos e Sistemas Complexos.
+        <img src="https://img.shields.io/badge/n8n_&_Python-Orchestration-000000?style=flat-square&logo=n8n&logoColor=white&labelColor=000000"><br>
+        Automação de fluxos complexos para Growth Ops e BI.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/AWS_&_Docker-Infraestrutura-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=000000"><br>
+        <img src="https://img.shields.io/badge/AWS_&_Docker-Compute-000000?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=000000"><br>
         Containerização e Serverless Scalability.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/AI_Red_Teaming-Defense-DC143C?style=flat-square&logo=hackthebox&logoColor=white&labelColor=000000"><br>
-        Testes Adversariais, Jailbreak e PII.
+        <img src="https://img.shields.io/badge/Quantum_Safe-Lattice--based-000000?style=flat-square&logo=web3dotjs&logoColor=8B5CF6&labelColor=000000"><br>
+        Criptografia Pós-Quântica (Kyber/Dilithium).
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/RAG_Pipelines-Context-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=000000"><br>
-        Pinecone + Embeddings para Recuperação.
+        <img src="https://img.shields.io/badge/Polars_&_SQL-Lakehouse-000000?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000"><br>
+        High-Performance ETL para processamento em larga escala.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Kubernetes-Scaling-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=000000"><br>
+        <img src="https://img.shields.io/badge/Kubernetes-Scaling-000000?style=flat-square&logo=kubernetes&logoColor=white&labelColor=000000"><br>
         Orquestração Horizontal de Microsserviços.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Datadog_&_Grafana-Metrics-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=000000"><br>
-        Observabilidade Full-Stack e Latência.
+        <img src="https://img.shields.io/badge/Adversarial_Defense-Red_Team-000000?style=flat-square&logo=hackthebox&logoColor=DC143C&labelColor=000000"><br>
+        Testes de Intrusão em LLMs e Prevenção de Prompt Injection.
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Python_&_PyTorch-Training-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000"><br>
-        Fine-tuning de Modelos (LLMs) e Inferência.
+        <img src="https://img.shields.io/badge/LangChain_&_RAG-Context-000000?style=flat-square&logo=chainlink&logoColor=FBBF24&labelColor=000000"><br>
+        Recuperação Híbrida e Agentes Autônomos.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=000000"><br>
-        Infraestrutura como Código para Deploy.
+        <img src="https://img.shields.io/badge/Linux_/_Bash-Edge_Node-000000?style=flat-square&logo=linux&logoColor=white&labelColor=000000"><br>
+        Otimização de hardware de borda (Low Latency).
       </td>
       <td>
-        <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-Riscos-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=000000"><br>
-        Mitigação de Prompt Injection e Bias.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/n8n_&_FastAPI-Automation-FF6584?style=flat-square&logo=n8n&logoColor=white&labelColor=000000"><br>
-        APIs de Alta Performance e Fluxos.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Linux_/_Bash-OS-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=000000"><br>
-        Scripting e Gerenciamento de Servidores.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/MLFlow-Tracking-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=000000"><br>
-        Ciclo de Vida de Modelos e Experimentos.
+        <img src="https://img.shields.io/badge/Observability-Datadog-000000?style=flat-square&logo=datadog&logoColor=white&labelColor=000000"><br>
+        Telemetria de Sistemas e Monitoramento de Drift.
       </td>
     </tr>
   </tbody>
@@ -97,63 +86,44 @@ Não apenas ferramentas, mas **como** eu construo sistemas distribuídos.
 
 <br>
 
-### ⚡ Proprietary Ventures & Deep Tech
+### > THE CROWN JEWEL & DEEP TECH VENTURES
 
-Desenvolvendo a infraestrutura da próxima geração de IA.
+Desenvolvendo infraestrutura de vanguarda e protocolos proprietários de pesquisa (Edge, Web3 & Quantum Security).
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="25%">Venture</th>
+      <th width="20%">Venture / Protocol</th>
       <th width="20%">Categoria</th>
-      <th width="40%">Tech Stack & Foco</th>
+      <th width="45%">Tech Stack & Architecture</th>
       <th width="15%">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🟣 Velixr Protocol</b></td>
-      <td><img src="https://img.shields.io/badge/Layer_0-Economy-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Blockchain + AI:</b> Identidade Soberana e Liquidação P2P.</td>
-      <td><img src="https://img.shields.io/badge/●_ALPHA-8B5CF6?style=flat-square&labelColor=000000"></td>
+      <td><b>LXQ Protocol</b><br><i>(Lexun Quantum)</i></td>
+      <td><img src="https://img.shields.io/badge/DeFi-Quantum_Safe-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Non-Custodial DEX:</b> Arquitetura de liquidez peer-to-peer blindada contra ataques de computação quântica (PQC).</td>
+      <td><img src="https://img.shields.io/badge/●_ACTIVE_DEV-8B5CF6?style=flat-square&labelColor=000000"></td>
     </tr>
     <tr>
-      <td><b>🔴 The Neural Bombe</b></td>
-      <td><img src="https://img.shields.io/badge/AI_Security-Edge-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Interpretabilidade:</b> Análise de vetores de ativação em tempo real.</td>
-      <td><img src="https://img.shields.io/badge/●_R&D-DC143C?style=flat-square&labelColor=000000"></td>
+      <td><b>Velixr Protocol</b></td>
+      <td><img src="https://img.shields.io/badge/Layer_0-Machine_Econ-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Agent Economy:</b> Decentralized infrastructure with Sovereign Identity (DID) and Post-Quantum Security (PQC).</td>
+      <td><img src="https://img.shields.io/badge/●_R&D-FBBF24?style=flat-square&labelColor=000000"></td>
     </tr>
     <tr>
-      <td><b>🔵 Morphogenetic</b></td>
-      <td><img src="https://img.shields.io/badge/Infra-Self--Healing-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Bio-mimética:</b> Orquestração de Edge inspirada em Turing.</td>
+      <td><b>The Neural Bombe</b></td>
+      <td><img src="https://img.shields.io/badge/Security-Cryptoanalysis-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>SLM Sentinel:</b> Malicious intent decryption at the Edge. Analyzes activation vectors in real-time.</td>
+      <td><img src="https://img.shields.io/badge/●_CONCEPT-DC143C?style=flat-square&labelColor=000000"></td>
+    </tr>
+    <tr>
+      <td><b>Morphogenetic Net</b></td>
+      <td><img src="https://img.shields.io/badge/Edge-Self_Healing-000000?style=flat-square&labelColor=000000"></td>
+      <td><b>Bio-mimetic Infra:</b> Devices self-organize and self-heal using Turing's morphogenesis algorithms.</td>
       <td><img src="https://img.shields.io/badge/●_CONCEPT-3B82F6?style=flat-square&labelColor=000000"></td>
-    </tr>
-    <tr>
-      <td><b>🟡 QubitArc</b></td>
-      <td><img src="https://img.shields.io/badge/Web3-DeFi_Sec-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Risk AI:</b> Mitigação de risco de liquidez on-chain.</td>
-      <td><img src="https://img.shields.io/badge/●_CONCEPT-EAB308?style=flat-square&labelColor=000000"></td>
-    </tr>
-    <tr>
-      <td><b>🟢 EcoEdge FW</b></td>
-      <td><img src="https://img.shields.io/badge/Green_AI-IoT-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Hardware:</b> Pruning e Quantização para eficiência energética.</td>
-      <td><img src="https://img.shields.io/badge/●_PROTO-10B981?style=flat-square&labelColor=000000"></td>
-    </tr>
-    <tr>
-      <td><b>⚡ Digital Flow Hub</b></td>
-      <td><img src="https://img.shields.io/badge/SaaS-Automation-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Multi-Agent:</b> Força de trabalho digital por assinatura.</td>
-      <td><img src="https://img.shields.io/badge/●_LIVE-FFFFFF?style=flat-square&labelColor=000000&color=000000"></td>
     </tr>
   </tbody>
 </table>
-
-### 📊 GitHub Telemetry
-
-<img src="https://github-readme-stats.vercel.app/api?username=VictorAlexandr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=EDEDED" alt="Victor's Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlexandr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=EDEDED" alt="Top Langs" />
-
-</div>
+     
