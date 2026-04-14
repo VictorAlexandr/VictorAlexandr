@@ -3,19 +3,19 @@
   <h1 align="center">VICTOR ALEXANDRE</h1>
   
   <p align="center">
-    <code>// BUSINESS INTELLIGENCE & DATA STRATEGY @ SPARK</code><br>
-    <code>// PESQUISADOR PÓS-GRADUANDO: CLOUD & EDGE COMPUTING</code>
+    <code>// BI & DATA STRATEGY ANALYTICS @ SPARK MAXX</code><br>
+    <code>// POSTGRADUATE RESEARCHER: CLOUD & EDGE COMPUTING</code>
   </p>
 
   <p>
-    Arquitetando ecossistemas de dados determinísticos para ambientes não-determinísticos.<br>
-    Construindo a ponte entre automação inteligente, computação de borda de alta performance e protocolos de segurança resistentes à computação quântica.
+    Architecting deterministic data ecosystems for non-deterministic environments.<br>
+    Bridging the gap between intelligent automation, high-performance edge computing, and quantum-resistant security protocols.
   </p>
 
   <br>
 
   <a href="https://portfolio-victor-doiu.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-030303?style=for-the-badge&logo=vercel&logoColor=white&color=030303&labelColor=030303" height="35" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-030303?style=for-the-badge&logo=vercel&logoColor=white&color=030303&labelColor=030303" height="35" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206">
@@ -26,59 +26,59 @@
 
 <br>
 
-### > ARQUITETURA DE ENGENHARIA & STACK
+### > ENGINEERING ARCHITECTURE & STACK
 
-Não apenas ferramentas, mas **como** eu orquestro sistemas distribuídos em produção.
+Not just tools, but **how** I orchestrate distributed systems in production.
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%">Estratégia de Dados & Automação</th>
-      <th width="33%">Infraestrutura Cloud & Edge</th>
-      <th width="33%">Segurança de IA & Quântica (PQC)</th>
+      <th width="33%">Data Strategy & Automation</th>
+      <th width="33%">Cloud & Edge Infrastructure</th>
+      <th width="33%">AI Security & Quantum (PQC)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/n8n_&_Python-Orchestration-000000?style=flat-square&logo=n8n&logoColor=white&labelColor=000000"><br>
-        Automação de fluxos complexos para Growth Ops e BI.
+        Complex workflow automation for Growth Ops and BI.
       </td>
       <td>
         <img src="https://img.shields.io/badge/AWS_&_Docker-Compute-000000?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=000000"><br>
-        Containerização e escalabilidade serverless.
+        Containerization and serverless scalability.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Quantum_Safe-Lattice--based-000000?style=flat-square&logo=web3dotjs&logoColor=8B5CF6&labelColor=000000"><br>
-        Criptografia Pós-Quântica (Kyber/Dilithium).
+        Post-Quantum Cryptography (Kyber/Dilithium).
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/Polars_&_SQL-Lakehouse-000000?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000"><br>
-        ETL de alta performance para processamento em larga escala.
+        High-performance ETL for large-scale processing.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Kubernetes-Scaling-000000?style=flat-square&logo=kubernetes&logoColor=white&labelColor=000000"><br>
-        Orquestração horizontal de microsserviços.
+        Horizontal orchestration of microservices.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Adversarial_Defense-Red_Team-000000?style=flat-square&logo=hackthebox&logoColor=DC143C&labelColor=000000"><br>
-        Testes de intrusão em LLMs e prevenção de Prompt Injection.
+        LLM penetration testing and Prompt Injection prevention.
       </td>
     </tr>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/LangChain_&_RAG-Context-000000?style=flat-square&logo=chainlink&logoColor=FBBF24&labelColor=000000"><br>
-        Recuperação híbrida e orquestração de Agentes Autônomos.
+        Hybrid retrieval and Autonomous Agent orchestration.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Linux_/_Bash-Edge_Node-000000?style=flat-square&logo=linux&logoColor=white&labelColor=000000"><br>
-        Otimização de hardware de borda (baixa latência).
+        Edge hardware optimization (low latency).
       </td>
       <td>
         <img src="https://img.shields.io/badge/Observability-Datadog-000000?style=flat-square&logo=datadog&logoColor=white&labelColor=000000"><br>
-        Telemetria de sistemas e monitoramento de drift de dados.
+        Systems telemetry and data drift monitoring.
       </td>
     </tr>
   </tbody>
@@ -86,16 +86,16 @@ Não apenas ferramentas, mas **como** eu orquestro sistemas distribuídos em pro
 
 <br>
 
-### > A JOIA DA COROA & DEEP TECH VENTURES
+### > THE CROWN JEWEL & DEEP TECH VENTURES
 
-Desenvolvendo infraestrutura de vanguarda e protocolos proprietários de pesquisa (Edge, Web3 & Segurança Quântica).
+Developing cutting-edge infrastructure and proprietary research protocols (Edge, Web3 & Quantum Security).
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="20%">Venture / Protocolo</th>
-      <th width="20%">Categoria</th>
-      <th width="45%">Tech Stack & Arquitetura</th>
+      <th width="20%">Venture / Protocol</th>
+      <th width="20%">Category</th>
+      <th width="45%">Tech Stack & Architecture</th>
       <th width="15%">Status</th>
     </tr>
   </thead>
@@ -103,29 +103,26 @@ Desenvolvendo infraestrutura de vanguarda e protocolos proprietários de pesquis
     <tr>
       <td><b>LXQ Protocol</b><br><i>(Lexun Quantum)</i></td>
       <td><img src="https://img.shields.io/badge/DeFi-Quantum_Safe-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Non-Custodial DEX:</b> Arquitetura de liquidez peer-to-peer blindada contra ataques de computação quântica (PQC).</td>
-      <td><img src="https://img.shields.io/badge/●_DEV_ATIVO-8B5CF6?style=flat-square&labelColor=000000"></td>
+      <td><b>Non-Custodial DEX:</b> Peer-to-peer liquidity architecture shielded against quantum computing attacks (PQC).</td>
+      <td><img src="https://img.shields.io/badge/●_ACTIVE_DEV-8B5CF6?style=flat-square&labelColor=000000"></td>
     </tr>
     <tr>
       <td><b>Velixr Protocol</b></td>
       <td><img src="https://img.shields.io/badge/Layer_0-Machine_Econ-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Economia de Agentes:</b> Infraestrutura descentralizada com Identidade Soberana (DID) e Segurança Pós-Quântica.</td>
-      <td><img src="https://img.shields.io/badge/●_PESQUISA-FBBF24?style=flat-square&labelColor=000000"></td>
+      <td><b>Agent Economy:</b> Decentralized infrastructure with Self-Sovereign Identity (SSI) and Post-Quantum Security.</td>
+      <td><img src="https://img.shields.io/badge/●_RESEARCH-FBBF24?style=flat-square&labelColor=000000"></td>
     </tr>
     <tr>
       <td><b>The Neural Bombe</b></td>
       <td><img src="https://img.shields.io/badge/Security-Cryptoanalysis-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Sentinela SLM:</b> Decifração de intenção maliciosa na Borda (Edge). Analisa vetores de ativação em tempo real.</td>
-      <td><img src="https://img.shields.io/badge/●_CONCEITO-DC143C?style=flat-square&labelColor=000000"></td>
+      <td><b>Sentinel SLM:</b> Malicious intent decryption at the Edge. Real-time activation vector analysis.</td>
+      <td><img src="https://img.shields.io/badge/●_CONCEPT-DC143C?style=flat-square&labelColor=000000"></td>
     </tr>
     <tr>
       <td><b>Morphogenetic Net</b></td>
       <td><img src="https://img.shields.io/badge/Edge-Self_Healing-000000?style=flat-square&labelColor=000000"></td>
-      <td><b>Infraestrutura Bio-mimética:</b> Dispositivos que se auto-organizam e se curam usando algoritmos de morfogênese de Turing.</td>
-      <td><img src="https://img.shields.io/badge/●_CONCEITO-3B82F6?style=flat-square&labelColor=000000"></td>
+      <td><b>Bio-mimetic Infrastructure:</b> Self-organizing and self-healing devices using Turing morphogenesis algorithms.</td>
+      <td><img src="https://img.shields.io/badge/●_CONCEPT-3B82F6?style=flat-square&labelColor=000000"></td>
     </tr>
   </tbody>
 </table>
-
-<br>
-
