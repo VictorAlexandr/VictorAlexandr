@@ -39,7 +39,7 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Kafka_&_EventBridge-PubSub-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/Kafka_&_EventBridge-PubSub-E51400?style=flat-square&logo=apachekafka&logoColor=white&labelColor=1F1F1F"><br>
         High-throughput, decoupled message brokering for real-time ML triggers.
       </td>
       <td>
@@ -53,29 +53,29 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Snowflake_&_dbt-Lakehouse-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/Snowflake_&_dbt-Lakehouse-FF694B?style=flat-square&logo=snowflake&logoColor=white&labelColor=1F1F1F"><br>
         Dimensional modeling, predictive monorepos, and CI/CD data pipelines.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/ROS_2_&_Edge-Robotics-22314E?style=flat-square&logo=ros&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/ROS_2_&_Edge-Robotics-00E676?style=flat-square&logo=ros&logoColor=white&labelColor=1F1F1F"><br>
         Local telemetry caching and async Cloud sync for mobile robots.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Obsidian_&_Claude-Arch_&_Execution-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/Obsidian_&_Claude-Arch_&_Execution-B250FF?style=flat-square&logo=anthropic&logoColor=white&labelColor=1F1F1F"><br>
         Bridging deep architectural thinking (MOCs) with high-speed agentic execution.
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Polars_&_SQL-Data_Processing-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/Polars_&_SQL-Data_Processing-007AFF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F1F"><br>
         High-performance, memory-safe data wrangling for large-scale processing.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/OTA_Deployments-YOLO-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/OTA_Deployments-YOLO-00D1FF?style=flat-square&logo=docker&logoColor=white&labelColor=1F1F1F"><br>
         Over-The-Air computer vision updates with zero-downtime inference.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/LLM_as_a_Judge-Security_Gate-10A37F?style=flat-square&logo=openai&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/LLM_as_a_Judge-Security_Gate-05C46B?style=flat-square&logo=openai&logoColor=white&labelColor=1F1F1F"><br>
         AI-in-the-loop verification to block hallucinations and prompt injections.
       </td>
     </tr>
