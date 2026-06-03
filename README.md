@@ -57,7 +57,7 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
         Dimensional modeling, predictive monorepos, and CI/CD data pipelines.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/ROS_2_&_Edge-Robotics-00E676?style=flat-square&logo=ros&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/ROS_2_&_Edge-Robotics-39FF14?style=flat-square&logo=ros&logoColor=white&labelColor=1F1F1F"><br>
         Local telemetry caching and async Cloud sync for mobile robots.
       </td>
       <td>
@@ -75,7 +75,7 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
         Over-The-Air computer vision updates with zero-downtime inference.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/LLM_as_a_Judge-Security_Gate-05C46B?style=flat-square&logo=openai&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/LLM_as_a_Judge-Security_Gate-8A2BE2?style=flat-square&logo=openai&logoColor=white&labelColor=1F1F1F"><br>
         AI-in-the-loop verification to block hallucinations and prompt injections.
       </td>
     </tr>
