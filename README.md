@@ -31,7 +31,7 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%">Event-Driven Data Engineering</th>
+      <th width="33%">Data Science & Engineering</th>
       <th width="33%">Cloud Infra & Edge MLOps</th>
       <th width="33%">AI Architecture & Security</th>
     </tr>
@@ -47,8 +47,8 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
         Serverless scalability and immutable infrastructure as code.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Obsidian-System_Design-483699?style=flat-square&logo=obsidian&logoColor=white&labelColor=1F1F1F"><br>
-        Local-first architecture MOCs and complex graph documentation.
+        <img src="https://img.shields.io/badge/Local_AI_&_Ollama-Privacy--First-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1F1F1F"><br>
+        Deployment of local, open-weight models for air-gapped security and low-latency inference.
       </td>
     </tr>
     <tr>
@@ -61,13 +61,13 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
         Local telemetry caching and async Cloud sync for mobile robots.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Claude_Code-Vibe_Coding-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1F1F1F"><br>
-        CLI-native agentic execution seamlessly paired with Obsidian specs.
+        <img src="https://img.shields.io/badge/Obsidian_&_Claude-Arch_&_Execution-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1F1F1F"><br>
+        Bridging deep architectural thinking (MOCs) with high-speed agentic execution.
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Polars_&_SQL-ETL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F1F"><br>
+        <img src="https://img.shields.io/badge/Polars_&_SQL-Data_Processing-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F1F"><br>
         High-performance, memory-safe data wrangling for large-scale processing.
       </td>
       <td>
