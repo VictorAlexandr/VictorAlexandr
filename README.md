@@ -3,8 +3,8 @@
   <h1 align="center">VICTOR ALEXANDRE</h1>
   
   <p align="center">
-    <code>// SENIOR MACHINE LEARNING ENGINEER & DATA ARCHITECT </code><br>
-    <code>// POSTGRADUATE RESEARCHER: CLOUD & EDGE COMPUTING</code>
+    <b>SENIOR MACHINE LEARNING ENGINEER & DATA ARCHITECT</b><br>
+    <span>POSTGRADUATE RESEARCHER: CLOUD & EDGE COMPUTING</span>
   </p>
 
   <p>
@@ -15,70 +15,68 @@
   <br>
 
   <a href="https://portfolio-victor-2026.vercel.app//">
-    <img src="https://img.shields.io/badge/PORTFOLIO-030303?style=for-the-badge&logo=vercel&logoColor=white&color=030303&labelColor=030303" height="35" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white&color=1A1A1A" height="35" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206">
-    <img src="https://img.shields.io/badge/LINKEDIN-030303?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=030303&labelColor=030303" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" height="35" alt="LinkedIn" />
   </a>
 
 </div>
 
-<br>
+### > ENGINEERING PRINCIPLES & STACK
 
-### > ENGINEERING ARCHITECTURE & STACK
-
-I don't just use tools; I orchestrate distributed systems with strict focus on **resilience, idempotency, and security**.
+I approach Data Science as a rigorous engineering discipline. Beyond training predictive models (LTV, Churn) and advanced statistical analysis, I architect the end-to-end data infrastructure required to put them into production. From dimensional modeling and high-throughput ETLs to deploying computer vision at the Edge, I ensure that machine learning ecosystems are fault-tolerant, scalable, and secure.
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%">Event-Driven Data & Analytics</th>
-      <th width="33%">Edge MLOps & Cloud Infra</th>
-      <th width="33%">AI Governance & Security</th>
+      <th width="33%">Event-Driven Data Engineering</th>
+      <th width="33%">Cloud Infra & Edge MLOps</th>
+      <th width="33%">AI Architecture & Security</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/dbt_&_Python-Monorepo-000000?style=flat-square&logo=dbt&logoColor=FF694B&labelColor=000000"><br>
-        Dimensional modeling and predictive pipelines (LTV, Churn).
+        <img src="https://img.shields.io/badge/Kafka_&_EventBridge-PubSub-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=1F1F1F"><br>
+        High-throughput, decoupled message brokering for real-time ML triggers.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/ROS_2_&_Edge-Robotics-000000?style=flat-square&logo=ros&logoColor=white&labelColor=000000"><br>
+        <img src="https://img.shields.io/badge/AWS_&_Terraform-IaC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1F1F1F"><br>
+        Serverless scalability and immutable infrastructure as code.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Obsidian-System_Design-483699?style=flat-square&logo=obsidian&logoColor=white&labelColor=1F1F1F"><br>
+        Local-first architecture MOCs and complex graph documentation.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Snowflake_&_dbt-Lakehouse-29B5E8?style=flat-square&logo=snowflake&logoColor=white&labelColor=1F1F1F"><br>
+        Dimensional modeling, predictive monorepos, and CI/CD data pipelines.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/ROS_2_&_Edge-Robotics-22314E?style=flat-square&logo=ros&logoColor=white&labelColor=1F1F1F"><br>
         Local telemetry caching and async Cloud sync for mobile robots.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/LLM_as_a_Judge-Gates-000000?style=flat-square&logo=openai&logoColor=white&labelColor=000000"><br>
-        AI-in-the-loop verification to prevent hallucination in critical APIs.
+        <img src="https://img.shields.io/badge/Claude_Code-Vibe_Coding-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1F1F1F"><br>
+        CLI-native agentic execution seamlessly paired with Obsidian specs.
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/n8n_&_Webhooks-Orchestration-000000?style=flat-square&logo=n8n&logoColor=white&labelColor=000000"><br>
-        Complex, state-aware automation with At-Least-Once delivery.
+        <img src="https://img.shields.io/badge/Polars_&_SQL-ETL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F1F"><br>
+        High-performance, memory-safe data wrangling for large-scale processing.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/OTA_Deployments-YOLO-000000?style=flat-square&logo=docker&logoColor=2496ED&labelColor=000000"><br>
+        <img src="https://img.shields.io/badge/OTA_Deployments-YOLO-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1F1F1F"><br>
         Over-The-Air computer vision updates with zero-downtime inference.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Adversarial_Defense-Red_Team-000000?style=flat-square&logo=hackthebox&logoColor=DC143C&labelColor=000000"><br>
-        Prompt Injection prevention and strict schema validation (Pydantic).
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Polars_&_SQL-Lakehouse-000000?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000"><br>
-        High-performance, memory-safe ETL for large-scale processing.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS_&_Containers-Compute-000000?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=000000"><br>
-        Serverless scalability and infrastructure as code.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Observability-Datadog-000000?style=flat-square&logo=datadog&logoColor=white&labelColor=000000"><br>
-        Systems telemetry, distributed tracing, and data drift monitoring.
+        <img src="https://img.shields.io/badge/LLM_as_a_Judge-Security_Gate-10A37F?style=flat-square&logo=openai&logoColor=white&labelColor=1F1F1F"><br>
+        AI-in-the-loop verification to block hallucinations and prompt injections.
       </td>
     </tr>
   </tbody>
@@ -91,10 +89,5 @@ I don't just use tools; I orchestrate distributed systems with strict focus on *
 Select projects demonstrating enterprise-grade engineering rigor. *(Full architectural docs available in pinned repositories)*
 
 *   **[⚙️ Edge MLOps Pipeline: Zero-Downtime OTA Deployments for Cloud Robotics](#)**
-    *   *Architecture:* Cloud-trained YOLO models deployed to edge containers (ROS 2) handling intermittent network partitions via local caching.
 *   **[🛡️ Secure Autonomous Agents: Event-Driven Architecture with AI-in-the-loop](#)**
-    *   *Architecture:* High-volume webhooks managed via n8n with strict idempotency, gated by an LLM-as-a-judge protocol for secure RAG interactions.
 *   **[📊 Predictive MarTech Monorepo: Churn Shield & Lead Scoring](#)**
-    *   *Architecture:* End-to-end Python/dbt monorepo with CI/CD, outputting structured predictive data directly to Next.js growth dashboards.
-
-<br>
