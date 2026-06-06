@@ -88,6 +88,9 @@ I approach Data Science as a rigorous engineering discipline. Beyond training pr
 
 Select projects demonstrating enterprise-grade engineering rigor. *(Full architectural docs available in pinned repositories)*
 
-*   **[⚙️ Edge MLOps Pipeline: Zero-Downtime OTA Deployments for Cloud Robotics](#)**
+*   **[⚙️ PHYSICAL AI: Cloud Robotics & Edge MLOps](https://lp-one-sandy.vercel.app)**
+    *   *Architecture:* Build-in-public ecosystem bridging Cloud (Fleet Telemetry) and Edge (Zero-downtime OTA pipelines). Validating autonomous robotics with strict rollback and observability constraints.
 *   **[🛡️ Secure Autonomous Agents: Event-Driven Architecture with AI-in-the-loop](#)**
+    *   *Architecture:* High-volume webhooks managed via Kafka/n8n with strict idempotency, gated by an LLM-as-a-judge protocol for secure interactions.
 *   **[📊 Predictive MarTech Monorepo: Churn Shield & Lead Scoring](#)**
+    *   *Architecture:* End-to-end Python/dbt monorepo with CI/CD, outputting structured predictive data directly to Snowflake/Next.js dashboards.
