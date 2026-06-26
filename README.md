@@ -8,7 +8,11 @@ Currently leading Data Strategy & AI Architecture at Spark Maxx. I go far beyond
 
 Available for B2B remote contracts (US/Global). Specialized in GCP, Modern Data Stack (dbt, Airflow paradigms), fault-tolerant architectures, and AI-in-the-loop governance.
 
-[🌐 Portfolio / Website](https://portfolio-victor-2026.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/) • [✉️ E-mail](mailto:victorale94310@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-victor-2026.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorale94310@gmail.com)
 
 </div>
 
