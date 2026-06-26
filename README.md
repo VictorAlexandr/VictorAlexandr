@@ -23,10 +23,9 @@ I approach Data Science and AI as rigorous engineering disciplines. Before a pre
 
 | 🏗️ Data Engineering (GCP & MDS) | 🧠 AI Architecture & Security | ⚡ Cloud Infra & Edge MLOps |
 | :--- | :--- | :--- |
-| **GCP Data Stack:** BigQuery, Cloud Storage, Pub/Sub, Dataflow. | **AI-in-the-loop:** LLM-as-a-judge verification to block hallucinations and prompt injections. | **Serverless & IaC:** Immutable infrastructure as code and CI/CD pipelines. |
-| **Batch & ELT:** dbt (Data Build Tool) for dimensional modeling and Medallion Architecture. | **Agentic Workflows:** Autonomous workflows leveraging Claude 3 / OpenAI APIs. | **Deep Tech:** Over-The-Air (OTA) computer vision updates with zero-downtime inference. |
-| **DAG Orchestration:** Idempotent, high-throughput message brokering (Airflow/n8n paradigms). | **AI Privacy:** Data masking and PII sanitization for LLM integrations. | **Robotics:** Local telemetry caching and async Cloud sync for ROS2 nodes. |
-
+| $\color{#4285F4}{\textsf{\textbf{GCP Data Stack:}}}$ BigQuery, Cloud Storage, Pub/Sub, Dataflow. | $\color{#9370DB}{\textsf{\textbf{AI-in-the-loop:}}}$ LLM-as-a-judge verification to block hallucinations and prompt injections. | $\color{#32CD32}{\textsf{\textbf{Serverless and IaC:}}}$ Immutable infrastructure as code and CI/CD pipelines. |
+| $\color{#FF6C37}{\textsf{\textbf{Batch and ELT:}}}$ dbt (Data Build Tool) for dimensional modeling and Medallion Architecture. | $\color{#8A2BE2}{\textsf{\textbf{Agentic Workflows:}}}$ Autonomous workflows leveraging Claude 3 / OpenAI APIs. | $\color{#E74C3C}{\textsf{\textbf{Deep Tech:}}}$ Over-The-Air (OTA) computer vision updates with zero-downtime inference. |
+| $\color{#00CED1}{\textsf{\textbf{DAG Orchestration:}}}$ Idempotent, high-throughput message brokering (Airflow/n8n paradigms). | $\color{#DA70D6}{\textsf{\textbf{AI Privacy:}}}$ Data masking and PII sanitization for LLM integrations. | $\color{#1ABC9C}{\textsf{\textbf{Robotics:}}}$ Local telemetry caching and async Cloud sync for ROS2 nodes. |
 ---
 
 ## > FEATURED SYSTEM DESIGN (THE PORTFOLIO)
