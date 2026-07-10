@@ -1,7 +1,7 @@
 <div align="center">
 
 # VICTOR ALEXANDRE
-### SENIOR DATA ENGINEER & AI SYSTEMS ARCHITECT
+### Senior Data Scientist & AI Specialist
 **POSTGRADUATE RESEARCHER: CLOUD & EDGE COMPUTING**
 
 Currently leading Data Strategy & AI Architecture at Spark Maxx. I go far beyond traditional data modeling to engineer event-driven ELT pipelines, idempotent data streams, and secure LLM integrations for enterprise environments. 
