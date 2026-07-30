@@ -2,7 +2,9 @@
 
 ![I put data and AI to work — Victor Fernandes](banner-hero.svg)
 
-[**Portfolio →**](https://victorfernandes-blog.vercel.app) · [**English version →**](https://victorfernandes-blog.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/) · [victordataengineerds@gmail.com](mailto:victordataengineerds@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e0e10?style=for-the-badge&logo=vercel&logoColor=white)](https://victorfernandes-blog.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victordataengineerds@gmail.com)
 
 </div>
 
