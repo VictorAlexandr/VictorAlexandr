@@ -1,6 +1,6 @@
 <div align="center">
 
-![I put data and AI to work — Victor Fernandes](banner.svg)
+![I put data and AI to work — Victor Fernandes](banner-hero.svg)
 
 [**Portfolio →**](https://victorfernandes-blog.vercel.app) · [**English version →**](https://victorfernandes-blog.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/) · [victordataengineerds@gmail.com](mailto:victordataengineerds@gmail.com)
 
@@ -18,12 +18,11 @@ Open to **selected B2B remote contracts** (BR/US/Global).
 
 **Production is the bar.** Every case is written as problem → decision → architecture → **what the choice cost**. A write-up is only done when the trade-off is stated.
 
-| 🏗️ $\color{#4d82ff}{\textsf{\textbf{Data Engineering}}}$ | 🧠 $\color{#ED145B}{\textsf{\textbf{AI Engineering}}}$ | 📊 $\color{#03EF62}{\textsf{\textbf{Data Science}}}$ |
+| 🏗️ Data Engineering (GCP & MDS) | 🧠 AI Architecture & Security | ⚡ Cloud Infra & Edge MLOps |
 | :--- | :--- | :--- |
-| $\color{#4d82ff}{\textsf{\textbf{GCP data stack:}}}$ BigQuery, Cloud Storage, Pub/Sub, Dataflow | $\color{#ED145B}{\textsf{\textbf{Agentic workflows:}}}$ Pydantic AI, CrewAI, LangGraph, Agents SDK | $\color{#03EF62}{\textsf{\textbf{Analysis:}}}$ Python, SQL, pandas, JupyterLab |
-| $\color{#4d82ff}{\textsf{\textbf{ELT \& modeling:}}}$ dbt-style dimensional modeling, Medallion architecture | $\color{#ED145B}{\textsf{\textbf{RAG \& context:}}}$ retrieval pipelines, embeddings, living documentation as context | $\color{#03EF62}{\textsf{\textbf{Methods:}}}$ cohorts, survival curves, funnel analytics, forecasting |
-| $\color{#4d82ff}{\textsf{\textbf{Databases:}}}$ PostgreSQL/Supabase, data quality tests, idempotent loads | $\color{#ED145B}{\textsf{\textbf{LLM ops:}}}$ Claude \& OpenAI APIs, local inference (Ollama/Mac Studio), serverless GPU (Modal) | $\color{#03EF62}{\textsf{\textbf{Delivery:}}}$ dashboards \& data products in Next.js, decision-grade write-ups |
-| $\color{#4d82ff}{\textsf{\textbf{Orchestration:}}}$ DAG thinking (Airflow paradigms), n8n, cron + observability | $\color{#ED145B}{\textsf{\textbf{AI safety \& privacy:}}}$ guardrails, PII sanitization, LLM-as-a-judge verification | $\color{#03EF62}{\textsf{\textbf{Experimentation:}}}$ A/B testing foundations, Bayesian evaluation |
+| $\color{#4285F4}{\textsf{\textbf{GCP Data Stack:}}}$ BigQuery, Cloud Storage, Pub/Sub, Dataflow. | $\color{#9370DB}{\textsf{\textbf{AI-in-the-loop:}}}$ LLM-as-a-judge verification to block hallucinations and prompt injections. | $\color{#32CD32}{\textsf{\textbf{Serverless and IaC:}}}$ Immutable infrastructure as code and CI/CD pipelines. |
+| $\color{#FF6C37}{\textsf{\textbf{Batch and ELT:}}}$ dbt (Data Build Tool) for dimensional modeling and Medallion Architecture. | $\color{#8A2BE2}{\textsf{\textbf{Agentic Workflows:}}}$ Autonomous workflows leveraging Claude / OpenAI APIs. | $\color{#E74C3C}{\textsf{\textbf{Deep Tech:}}}$ Over-The-Air (OTA) computer vision updates with zero-downtime inference. |
+| $\color{#00CED1}{\textsf{\textbf{DAG Orchestration:}}}$ Idempotent, high-throughput message brokering (Airflow/n8n paradigms). | $\color{#DA70D6}{\textsf{\textbf{AI Privacy:}}}$ Data masking and PII sanitization for LLM integrations. | $\color{#1ABC9C}{\textsf{\textbf{Robotics:}}}$ Local telemetry caching and async Cloud sync for ROS2 nodes. |
 
 <div align="center">
 

@@ -6,11 +6,11 @@
   <text x="70" y="160" font-size="56" font-weight="800" letter-spacing="-2" fill="#f4f4f6">I put data and AI <tspan fill="#6d8dff">to work</tspan>.</text>
   <path d="M528 182 C608 172 782 170 838 178" fill="none" stroke="#f04e23" stroke-width="7" stroke-linecap="round"/>
   <g font-family="ui-monospace,'SF Mono',Menlo,monospace" font-size="18">
-    <rect x="70" y="202" width="330" height="42" rx="21" fill="none" stroke="#03EF62" stroke-width="2.5"/>
+    <rect x="70" y="202" width="344" height="42" rx="21" fill="none" stroke="#03EF62" stroke-width="2.5"/>
     <text x="92" y="229" fill="#f4f4f6">15+ systems in production</text>
-    <rect x="420" y="202" width="300" height="42" rx="21" fill="none" stroke="#FFB400" stroke-width="2.5"/>
-    <text x="442" y="229" fill="#f4f4f6">BI · Data Science · AI</text>
-    <rect x="740" y="202" width="298" height="42" rx="21" fill="none" stroke="#ED145B" stroke-width="2.5"/>
-    <text x="762" y="229" fill="#f4f4f6">open to B2B contracts</text>
+    <rect x="434" y="202" width="308" height="42" rx="21" fill="none" stroke="#FFB400" stroke-width="2.5"/>
+    <text x="456" y="229" fill="#f4f4f6">BI · Data Science · AI</text>
+    <rect x="762" y="202" width="304" height="42" rx="21" fill="none" stroke="#ED145B" stroke-width="2.5"/>
+    <text x="784" y="229" fill="#f4f4f6">open to B2B contracts</text>
   </g>
 </svg>
