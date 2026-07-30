@@ -8,7 +8,7 @@
 
 </div>
 
-I lead **Data, BI & AI at Spark Maxx**, and there's only one bar here: **systems in production**. 15+ so far — dashboards, autonomous agents, analysis and local AI — each one documented on my portfolio with the problem, the decision, the architecture and what the choice cost.
+I lead **Data, BI & AI at Spark Maxx**, and there's only one bar here: **systems in production**. 15+ so far: dashboards, autonomous agents, analysis and local AI, each one documented on my portfolio with the problem, the decision, the architecture and what the choice cost.
 
 Open to **selected B2B remote contracts** (BR/US/Global).
 
@@ -16,7 +16,7 @@ Open to **selected B2B remote contracts** (BR/US/Global).
 
 ## How I work
 
-**Context before model.** A powerful model without context is wasted potential — so I treat context as infrastructure: every project carries living documentation that AI reads before acting. It's how 15+ simultaneous systems fit one person.
+**Context before model.** A powerful model without context is wasted potential, so I treat context as infrastructure: every project carries living documentation that AI reads before acting. It's how 15+ simultaneous systems fit one person.
 
 **Production is the bar.** Every case is written as problem → decision → architecture → **what the choice cost**. A write-up is only done when the trade-off is stated.
 
