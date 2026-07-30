@@ -47,14 +47,16 @@ Already public: [`aiot-anomaly-detection-gcp`](https://github.com/VictorAlexandr
 
 **Context before model.** A powerful model without context is wasted potential — so I treat context as infrastructure: every project carries living documentation that AI reads before acting. It's how 15+ simultaneous systems fit one person.
 
-**Production is the bar.** No feature showcases: each case is written as problem → decision → architecture → **what the choice cost**. If a trade-off isn't stated, the write-up isn't done.
+**Production is the bar.** Every case is written as problem → decision → architecture → **what the choice cost**. A write-up is only done when the trade-off is stated.
 
-```text
-Data & BI      Next.js · Supabase/PostgreSQL · dbt-style modeling · Vercel
-AI & Agents    Claude · Pydantic AI · CrewAI · LangGraph · RAG · local inference
-Analysis       Python · SQL · cohorts & survival curves · funnel analytics
-Cloud          GCP (BigQuery, Pub/Sub, Dataflow) · serverless GPU (Modal)
-```
+The toolbox I work with, across the three sides of data:
+
+| 🏗️ Data Engineering | 🧠 AI Engineering | 📊 Data Science |
+| :--- | :--- | :--- |
+| **GCP data stack** — BigQuery, Cloud Storage, Pub/Sub, Dataflow | **Agentic workflows** — Pydantic AI, CrewAI, LangGraph, Agents SDK | **Analysis** — Python, SQL, pandas, JupyterLab |
+| **ELT & modeling** — dbt-style dimensional modeling, Medallion architecture | **RAG & context** — retrieval pipelines, embeddings, living documentation as context | **Methods** — cohorts, survival curves, funnel analytics, forecasting |
+| **Databases** — PostgreSQL/Supabase, data quality tests, idempotent loads | **LLM ops** — Claude & OpenAI APIs, local inference (Ollama/Mac Studio), serverless GPU (Modal) | **Delivery** — dashboards & data products in Next.js, decision-grade write-ups |
+| **Orchestration** — DAG thinking (Airflow paradigms), n8n, cron + observability | **AI safety & privacy** — guardrails, PII sanitization, LLM-as-a-judge verification | **Experimentation** — A/B testing foundations, Bayesian evaluation |
 
 <div align="center">
 
