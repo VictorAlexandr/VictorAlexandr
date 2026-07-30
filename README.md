@@ -1,50 +1,63 @@
 <div align="center">
 
-# VICTOR ALEXANDRE
-### Senior Data Scientist & AI Specialist
-**POSTGRADUATE RESEARCHER: CLOUD & EDGE COMPUTING**
+![I put data and AI to work — Victor Fernandes](banner.svg)
 
-Currently leading Data Strategy & AI Architecture at Spark Maxx. I go far beyond traditional data modeling to engineer event-driven ELT pipelines, idempotent data streams, and secure LLM integrations for enterprise environments. 
-
-Available for B2B remote contracts (US/Global). Specialized in GCP, Modern Data Stack (dbt, Airflow paradigms), fault-tolerant architectures, and AI-in-the-loop governance.
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://victorfernandes-blog.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorale94310@gmail.com)
+[**Portfolio →**](https://victorfernandes-blog.vercel.app) · [**English version →**](https://victorfernandes-blog.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/) · [victordataengineerds@gmail.com](mailto:victordataengineerds@gmail.com)
 
 </div>
 
----
+I lead **Data, BI & AI at Spark Maxx**, and there's only one bar here: **systems in production**. 15+ so far — dashboards, autonomous agents, analysis and local AI — each one documented on my portfolio with the problem, the decision, the architecture and what the choice cost.
 
-## > ENGINEERING PRINCIPLES & STACK
-I approach Data Science and AI as rigorous engineering disciplines. Before a predictive model can generate value, the underlying data infrastructure must be flawless. I architect the end-to-end data meshes required to put intelligence into production. From Medallion architecture (Bronze/Silver/Gold) on BigQuery to deploying computer vision at the Edge, I ensure that data ecosystems are highly available, scalable, and secure.
-
-| 🏗️ Data Engineering (GCP & MDS) | 🧠 AI Architecture & Security | ⚡ Cloud Infra & Edge MLOps |
-| :--- | :--- | :--- |
-| $\color{#4285F4}{\textsf{\textbf{GCP Data Stack:}}}$ BigQuery, Cloud Storage, Pub/Sub, Dataflow. | $\color{#9370DB}{\textsf{\textbf{AI-in-the-loop:}}}$ LLM-as-a-judge verification to block hallucinations and prompt injections. | $\color{#32CD32}{\textsf{\textbf{Serverless and IaC:}}}$ Immutable infrastructure as code and CI/CD pipelines. |
-| $\color{#FF6C37}{\textsf{\textbf{Batch and ELT:}}}$ dbt (Data Build Tool) for dimensional modeling and Medallion Architecture. | $\color{#8A2BE2}{\textsf{\textbf{Agentic Workflows:}}}$ Autonomous workflows leveraging Claude 3 / OpenAI APIs. | $\color{#E74C3C}{\textsf{\textbf{Deep Tech:}}}$ Over-The-Air (OTA) computer vision updates with zero-downtime inference. |
-| $\color{#00CED1}{\textsf{\textbf{DAG Orchestration:}}}$ Idempotent, high-throughput message brokering (Airflow/n8n paradigms). | $\color{#DA70D6}{\textsf{\textbf{AI Privacy:}}}$ Data masking and PII sanitization for LLM integrations. | $\color{#1ABC9C}{\textsf{\textbf{Robotics:}}}$ Local telemetry caching and async Cloud sync for ROS2 nodes. |
----
-
-## > FEATURED SYSTEM DESIGN (THE PORTFOLIO)
-*Select projects demonstrating enterprise-grade engineering rigor. Full architectural RFCs and IaC available in the pinned repositories.*
-
-### 💸 1. FinTech: Real-Time Fraud Detection & Streaming Pipeline
-* **Architecture:** High-throughput streaming data ingestion using **Google Cloud Pub/Sub** and **Dataflow (Apache Beam)**. Processing mock credit card transactions in real-time, applying initial fraud-flagging heuristics, and persisting the event stream securely into **BigQuery** for historical analysis.
-* **Focus:** Low-latency processing, event-driven architecture, and streaming analytics on GCP.
-
-### 🛒 2. E-Commerce: Modern Data Stack & dbt Analytics Engineering
-* **Architecture:** End-to-end batch ELT pipeline. Raw data extraction into Cloud Storage (Data Lake), loaded into **BigQuery**, and heavily transformed using **dbt (Data Build Tool)**. Enforces strict data quality tests and Medallion architecture (Bronze/Silver/Gold) to serve predictive models (LTV, Churn) and executive dashboards.
-* **Focus:** Data governance, DAG orchestration (Airflow concepts), and highly optimized columnar querying.
-
-### 🏥 3. Healthcare: AI-Augmented Data Pipeline & PII Sanitization
-* **Architecture:** Bridging Deep Tech and Data Engineering. A Python-based pipeline that extracts unstructured medical data, leverages LLMs (LangChain/Vertex AI) to structure entities (symptoms, diagnostics), strictly masks sensitive PII (HIPAA/LGPD compliance), and loads the sanitized payload into a relational database.
-* **Focus:** AI Data Extraction, Security, Data Masking, and LLM automation.
-
-### ⚙️ 4. Physical AI: Cloud Robotics & Edge MLOps (Academic Research)
-* **Architecture:** Build-in-public ecosystem bridging Cloud (Fleet Telemetry) and Edge (Zero-downtime OTA pipelines). Validating autonomous robotics (ROS2) with strict rollback and observability constraints, pushing YOLO computer vision models to edge nodes without interrupting inference.
+Open to **selected B2B remote contracts** (BR/US/Global).
 
 ---
-*“Amateurs hack systems, professionals build architecture.”*
+
+## Shipped & documented
+
+Every system below is running in production today. Each link opens the full technical record on the portfolio.
+
+| System | What it does | Stack |
+|---|---|---|
+| [**Spark AI News**](https://victorfernandes-blog.vercel.app/en/sistemas/spark-ai-news) | Influence-intelligence platform: feed, trends, competitors, AI assistant and content studio in one product | Next.js · Supabase · AI Gateway |
+| [**Spark Portal**](https://victorfernandes-blog.vercel.app/en/sistemas/spark-portal) | Every company dashboard behind one domain — single login, per-department access enforced server-side | Next.js · Supabase Auth |
+| [**Macro Dashboard**](https://victorfernandes-blog.vercel.app/en/sistemas/dashboard-macro) | Rebuilt from Retool into our own code: 8 screens, 103 queries in 17 data modules, pre-rendered pages | Next.js · Supabase · Vercel |
+| [**AI-Driven Prioritizer**](https://victorfernandes-blog.vercel.app/en/sistemas/ai-driven-prioritizer) | Triage engine scoring effort × impact, re-ranking the whole portfolio on every new request | Next.js · Claude |
+| [**The Second Brain**](https://victorfernandes-blog.vercel.app/en/sistemas/segundo-cerebro) | Living documentation of every project, read by AI before any answer — context as infrastructure | Obsidian · Claude Code |
+
+Plus 10 more in production — Sales, Paid Media, Web Analytics and Organic dashboards, churn & funnel analysis, voice AI, in-house AI on a Mac Studio. [Full list →](https://victorfernandes-blog.vercel.app/en/#sistemas)
+
+---
+
+## 🚧 Building in public
+
+My deliberate track to go deeper on data & AI engineering — real problems, one architecture at a time. Repos land here as each one ships; **no repo, no claim**.
+
+| Project | Architecture I'm building | Status |
+|---|---|---|
+| **FinTech streaming pipeline** | Real-time fraud flagging: Pub/Sub → Dataflow (Beam) → BigQuery | 🚧 in development |
+| **E-commerce analytics engineering** | Batch ELT with dbt, data quality tests, Medallion on BigQuery | 🚧 in development |
+| **Healthcare AI pipeline** | LLM entity extraction + strict PII masking (LGPD/HIPAA-minded) | 🚧 in development |
+| **Agents Lab** | 5 agents × 5 frameworks (Pydantic AI, CrewAI, LangGraph, Agents SDK) against real operational problems | 🚧 [track on the portfolio](https://victorfernandes-blog.vercel.app/en/#lab) |
+
+Already public: [`aiot-anomaly-detection-gcp`](https://github.com/VictorAlexandr/aiot-anomaly-detection-gcp) — end-to-end MLOps for time-series anomaly detection (LSTM, FastAPI, GCP) · [`ai-security-foundry`](https://github.com/VictorAlexandr/ai-security-foundry) — practical LLM security & auditing experiments.
+
+---
+
+## How I work
+
+**Context before model.** A powerful model without context is wasted potential — so I treat context as infrastructure: every project carries living documentation that AI reads before acting. It's how 15+ simultaneous systems fit one person.
+
+**Production is the bar.** No feature showcases: each case is written as problem → decision → architecture → **what the choice cost**. If a trade-off isn't stated, the write-up isn't done.
+
+```text
+Data & BI      Next.js · Supabase/PostgreSQL · dbt-style modeling · Vercel
+AI & Agents    Claude · Pydantic AI · CrewAI · LangGraph · RAG · local inference
+Analysis       Python · SQL · cohorts & survival curves · funnel analytics
+Cloud          GCP (BigQuery, Pub/Sub, Dataflow) · serverless GPU (Modal)
+```
+
+<div align="center">
+
+**Has your data problem outgrown the spreadsheet?** → [victordataengineerds@gmail.com](mailto:victordataengineerds@gmail.com)
+
+</div>
