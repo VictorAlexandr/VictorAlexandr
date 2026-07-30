@@ -1,6 +1,6 @@
 <div align="center">
 
-![I put data and AI to work — Victor Fernandes](banner-dark.svg)
+![I put data and AI to work · Victor Fernandes](banner-dark.svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e0e10?style=for-the-badge&logo=vercel&logoColor=white)](https://victorfernandes-blog.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alexandre-azevedo-fernandes-367120206/)
