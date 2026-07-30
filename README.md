@@ -36,7 +36,7 @@ My deliberate track to go deeper on data & AI engineering — real problems, one
 |---|---|---|
 | **FinTech streaming pipeline** | Real-time fraud flagging: Pub/Sub → Dataflow (Beam) → BigQuery | 🚧 in development |
 | **E-commerce analytics engineering** | Batch ELT with dbt, data quality tests, Medallion on BigQuery | 🚧 in development |
-| **Healthcare AI pipeline** | LLM entity extraction + strict PII masking (LGPD/HIPAA-minded) | 🚧 in development |
+| **AI on sensitive data** | LLM entity extraction + strict PII masking (LGPD-first, healthcare to fintech) | 🚧 in development |
 | **Agents Lab** | 5 agents × 5 frameworks (Pydantic AI, CrewAI, LangGraph, Agents SDK) against real operational problems | 🚧 [track on the portfolio](https://victorfernandes-blog.vercel.app/en/#lab) |
 
 Already public: [`aiot-anomaly-detection-gcp`](https://github.com/VictorAlexandr/aiot-anomaly-detection-gcp) — end-to-end MLOps for time-series anomaly detection (LSTM, FastAPI, GCP) · [`ai-security-foundry`](https://github.com/VictorAlexandr/ai-security-foundry) — practical LLM security & auditing experiments.
