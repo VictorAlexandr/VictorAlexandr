@@ -1,16 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" font-family="ui-sans-serif,-apple-system,'Segoe UI',sans-serif">
-  <rect width="1200" height="300" fill="#faf7f0"/>
-  <rect x="34" y="30" width="1132" height="240" rx="22" fill="#191713"/>
-  <rect x="28" y="24" width="1132" height="240" rx="22" fill="#0e0e10" stroke="#191713" stroke-width="3"/>
-  <text x="72" y="84" font-size="20" letter-spacing="5" fill="#64646e" font-family="ui-monospace,'SF Mono',Menlo,monospace">VICTOR FERNANDES · DATA, BI &amp; AI · SPARK MAXX</text>
-  <text x="70" y="160" font-size="56" font-weight="800" letter-spacing="-2" fill="#f4f4f6">I put data and AI <tspan fill="#6d8dff">to work</tspan>.</text>
-  <path d="M528 182 C608 172 782 170 838 178" fill="none" stroke="#f04e23" stroke-width="7" stroke-linecap="round"/>
+  <rect width="1200" height="300" rx="20" fill="#0e0e10"/>
+  <text x="56" y="76" font-size="20" letter-spacing="5" fill="#64646e" font-family="ui-monospace,'SF Mono',Menlo,monospace">VICTOR FERNANDES &#183; DATA, BI &amp; AI &#183; SPARK MAXX</text>
+  <text x="54" y="158" font-size="58" font-weight="800" letter-spacing="-2" fill="#f4f4f6">I put data and AI <tspan fill="#6d8dff">to work</tspan>.</text>
+  <path d="M528 182 C610 170 790 168 848 176" fill="none" stroke="#f04e23" stroke-width="7" stroke-linecap="round"/>
   <g font-family="ui-monospace,'SF Mono',Menlo,monospace" font-size="18">
-    <rect x="70" y="202" width="344" height="42" rx="21" fill="none" stroke="#03EF62" stroke-width="2.5"/>
-    <text x="92" y="229" fill="#f4f4f6">15+ systems in production</text>
-    <rect x="434" y="202" width="308" height="42" rx="21" fill="none" stroke="#FFB400" stroke-width="2.5"/>
-    <text x="456" y="229" fill="#f4f4f6">BI · Data Science · AI</text>
-    <rect x="762" y="202" width="304" height="42" rx="21" fill="none" stroke="#ED145B" stroke-width="2.5"/>
-    <text x="784" y="229" fill="#f4f4f6">open to B2B contracts</text>
+    <rect x="54" y="208" width="344" height="44" rx="22" fill="none" stroke="#03EF62" stroke-width="2.5"/>
+    <text x="78" y="236" fill="#f4f4f6">15+ systems in production</text>
+    <rect x="418" y="208" width="308" height="44" rx="22" fill="none" stroke="#FFB400" stroke-width="2.5"/>
+    <text x="442" y="236" fill="#f4f4f6">BI &#183; Data Science &#183; AI</text>
+    <rect x="746" y="208" width="304" height="44" rx="22" fill="none" stroke="#ED145B" stroke-width="2.5"/>
+    <text x="770" y="236" fill="#f4f4f6">open to B2B contracts</text>
   </g>
 </svg>
