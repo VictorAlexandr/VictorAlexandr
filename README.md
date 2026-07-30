@@ -8,7 +8,7 @@
 
 </div>
 
-I lead **Data, BI & AI at Spark Maxx**, and there's only one bar here: **systems in production**. 15+ so far: dashboards, autonomous agents, analysis and local AI, each one documented on my portfolio with the problem, the decision, the architecture and what the choice cost.
+I lead **Data, BI & AI at Spark Maxx**, operating as the company's **CAIO (Chief AI Officer)**: the executive function that owns AI strategy, governance and implementation. And there's only one bar here: **systems in production**. 15+ so far: dashboards, autonomous agents, analysis and local AI, each one documented on my portfolio with the problem, the decision, the architecture and what the choice cost.
 
 Open to **selected B2B remote contracts** (BR/US/Global).
 
